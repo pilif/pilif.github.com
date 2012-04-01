@@ -36,6 +36,10 @@ pilif:
     follow_button: true
   google_plus_one:
     size: medium
+  github:
+    user: pilif
+    show_profile_link: true
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

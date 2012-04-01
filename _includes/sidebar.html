@@ -1,4 +1,3 @@
-<aside>
 <section>
   <h4>About Me</h4>
   <p>My name is <a href="mailto:pilif@pilif.me">Philip Hofstetter</a>.
@@ -8,6 +7,24 @@
   which I co-founded. I love working with and talking about
   computers.</p>
 </section>
+
+{% if site.pilif.github.user %}
+<section>
+  <h4>Github Repos</h4>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  {% if site.pilif.github.show_profile_link %}
+  <a href="https://github.com/{{site.pilif.github.user}}">@{{ site.pilif.github.user }}</a> on Github
+  {% endif %}
+  <script src="{{ BASE_PATH }}/jslib/github.js"></script>
+  <script>
+    $('#gh_repos').githubRepos('{{ site.pilif.github.user }}');
+  </script>
+</section>
+{% endif %}
+
+
 {% if site.pilif.twitter.user %}
 <section>
   <h4>Latest Tweets</h4>
@@ -23,7 +40,5 @@
   <script>
     $('#tweets').twitterTimeline('{{ site.pilif.twitter.user }}');
   </script>
-
 </section>
 {% endif %}
-</aside>
