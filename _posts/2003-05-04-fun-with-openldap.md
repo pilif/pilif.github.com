@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fun with OpenLDAP
-categories:
+tags:
 - Books
 - Free Software
 - Unix

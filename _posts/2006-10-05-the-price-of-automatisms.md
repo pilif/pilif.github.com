@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The price of automatisms
-categories:
+tags:
 - Programming
 - rant
 - sqlite

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fun with VoIP
-categories:
+tags:
 - Free Software
 - Unix
 - VoIP

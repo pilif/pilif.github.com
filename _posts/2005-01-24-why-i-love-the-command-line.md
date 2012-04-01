@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I love the command line
-categories:
+tags:
 - Solutions
 - Unix
 status: publish

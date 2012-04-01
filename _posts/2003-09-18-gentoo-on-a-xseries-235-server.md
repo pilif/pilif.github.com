@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gentoo on a xSeries 235 Server
-categories:
+tags:
 - Free Software
 - Hardware
 - Solutions

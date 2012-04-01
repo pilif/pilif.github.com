@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new fun project
-categories:
+tags:
 - programming
 - networking
 - fun

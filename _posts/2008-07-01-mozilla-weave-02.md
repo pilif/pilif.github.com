@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mozilla Weave 0.2
-categories:
+tags:
 - firefox
 - Free Software
 - Solutions

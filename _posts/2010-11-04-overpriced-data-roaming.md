@@ -1,7 +1,7 @@
 ---
 layout: post
 title: overpriced data roaming
-categories:
+tags:
 - Opinions
 status: publish
 type: post

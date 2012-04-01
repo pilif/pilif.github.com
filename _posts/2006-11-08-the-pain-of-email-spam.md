@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The pain of email SPAM
-categories:
+tags:
 - filter
 - mail
 - Personal

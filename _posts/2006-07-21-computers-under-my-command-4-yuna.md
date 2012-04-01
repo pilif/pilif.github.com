@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computers under my command (4): yuna"
-categories:
+tags:
 - Hardware
 - Mac
 - Personal

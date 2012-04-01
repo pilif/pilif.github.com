@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A name is a name... or not?
-categories:
+tags:
 - Free Software
 - Opinions
 status: publish

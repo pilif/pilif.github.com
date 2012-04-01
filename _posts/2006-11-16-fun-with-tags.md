@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fun with Tags
-categories:
+tags:
 - drm
 - fud
 - Personal

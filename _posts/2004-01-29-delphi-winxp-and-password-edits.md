@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Delphi, WinXP and Password Edits
-categories:
+tags:
 - Delphi
 - Programming
 - Solutions

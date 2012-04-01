@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recognized by Borland
-categories:
+tags:
 - Delphi
 status: publish
 type: post

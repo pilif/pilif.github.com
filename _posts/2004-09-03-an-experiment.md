@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An experiment
-categories:
+tags:
 - gnegg.ch
 status: publish
 type: post

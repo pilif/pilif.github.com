@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IRC Clients
-categories:
+tags:
 - irc
 - nesvideos
 - Software

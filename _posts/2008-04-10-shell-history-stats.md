@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shell history stats
-categories:
+tags:
 - Personal
 - shell
 - Unix

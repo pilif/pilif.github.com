@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fun with a tablet pc
-categories:
+tags:
 - Hardware
 status: publish
 type: post

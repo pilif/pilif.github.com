@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another new look
-categories:
+tags:
 - blog
 - gnegg.ch
 - s9y

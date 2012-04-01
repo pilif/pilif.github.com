@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thanks, Ebi
-categories:
+tags:
 - Personal
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 99 little emails
-categories:
+tags:
 - Personal
 status: publish
 type: post

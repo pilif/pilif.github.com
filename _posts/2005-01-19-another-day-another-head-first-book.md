@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another day, another "head first" book
-categories:
+tags:
 - Books
 - Programming
 status: publish

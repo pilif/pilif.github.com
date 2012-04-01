@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SonyEricsson, IMAP, Exchange
-categories:
+tags:
 - Solutions
 status: publish
 type: post

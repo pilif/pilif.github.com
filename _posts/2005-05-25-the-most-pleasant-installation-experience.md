@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The most pleasant installation experience
-categories:
+tags:
 - Software
 status: publish
 type: post

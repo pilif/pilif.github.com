@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Apps - Provisioning - Two-Legged OAuth
-categories:
+tags:
 - gmail
 - google
 - oauth

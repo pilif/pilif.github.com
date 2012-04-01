@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twisted Tornado
-categories:
+tags:
 - opinion
 - Opinions
 - python

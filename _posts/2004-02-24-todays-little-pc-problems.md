@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Today's little PC-Problems
-categories:
+tags:
 - Personal
 - Software
 status: publish

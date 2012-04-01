@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iTunes 8 visualization
-categories:
+tags:
 - itunes
 - Mac
 - mp3

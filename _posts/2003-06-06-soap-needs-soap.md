@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOAP needs soap
-categories:
+tags:
 - PHP
 - Programming
 - Solutions

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why is nobody using SSL client certificates?
-categories:
+tags:
 - Opinions
 - Software
 - ssl

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zelda: Four Swords Adventures"
-categories:
+tags:
 - Games
 status: publish
 type: post

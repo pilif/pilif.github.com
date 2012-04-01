@@ -1,7 +1,7 @@
 ---
 layout: post
 title: daily strips
-categories:
+tags:
 - gnegg.ch
 - Programming
 status: publish

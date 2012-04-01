@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working with subversion
-categories:
+tags:
 - Free Software
 - Programming
 - Unix

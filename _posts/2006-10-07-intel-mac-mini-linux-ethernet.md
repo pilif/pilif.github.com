@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intel Mac Mini, Linux, Ethernet
-categories:
+tags:
 - linux
 - Mac
 - sky2

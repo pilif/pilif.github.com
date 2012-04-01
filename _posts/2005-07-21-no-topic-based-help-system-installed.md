@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No topic-based help system installed
-categories:
+tags:
 - Delphi
 - Programming
 - Solutions

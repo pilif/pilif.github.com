@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Once more: PHP and SOAP"
-categories:
+tags:
 - Free Software
 - PHP
 - Programming

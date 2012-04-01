@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the search of a text editor
-categories:
+tags:
 - Programming
 status: publish
 type: post

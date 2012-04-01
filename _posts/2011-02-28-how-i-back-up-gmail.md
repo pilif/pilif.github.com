@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I back up gmail
-categories:
+tags:
 - backup
 - exim
 - gmail

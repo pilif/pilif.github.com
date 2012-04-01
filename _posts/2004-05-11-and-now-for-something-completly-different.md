@@ -1,7 +1,7 @@
 ---
 layout: post
 title: And now for something completly different
-categories:
+tags:
 - Usability
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find relation sizes in PostgreSQL
-categories:
+tags:
 - postgres
 - Programming
 - Software

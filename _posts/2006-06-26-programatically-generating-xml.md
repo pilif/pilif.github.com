@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programatically generating XML
-categories:
+tags:
 - Programming
 status: publish
 type: post

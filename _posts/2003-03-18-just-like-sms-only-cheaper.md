@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just like SMS - only cheaper
-categories:
+tags:
 - Solutions
 status: publish
 type: post

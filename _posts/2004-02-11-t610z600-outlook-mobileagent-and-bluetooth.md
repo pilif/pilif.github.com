@@ -1,7 +1,7 @@
 ---
 layout: post
 title: T610/Z600, Outlook, MobileAgent and Bluetooth
-categories:
+tags:
 - Software
 - Solutions
 status: publish

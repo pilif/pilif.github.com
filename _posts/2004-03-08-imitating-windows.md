@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Imitating Windows?
-categories:
+tags:
 - Free Software
 - Usability
 status: publish

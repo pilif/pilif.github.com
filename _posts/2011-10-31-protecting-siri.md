@@ -1,7 +1,7 @@
 ---
 layout: post
 title: protecting siri
-categories:
+tags:
 - programming
 - apple
 status: publish

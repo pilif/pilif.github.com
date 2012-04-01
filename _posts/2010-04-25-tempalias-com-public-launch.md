@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - Public launch
-categories:
+tags:
 - fun
 - launch
 - nodejs

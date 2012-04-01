@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XmlTextReader, UTF-8, Memory Corruption
-categories:
+tags:
 - feeling
 - Programming
 - rant

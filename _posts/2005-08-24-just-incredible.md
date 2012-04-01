@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just incredible
-categories:
+tags:
 - Personal
 status: publish
 type: post

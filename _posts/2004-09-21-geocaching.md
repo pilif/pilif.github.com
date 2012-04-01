@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geocaching
-categories:
+tags:
 - Personal
 status: publish
 type: post

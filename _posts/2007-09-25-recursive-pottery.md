@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recursive pottery
-categories:
+tags:
 - Personal
 - strange
 status: publish

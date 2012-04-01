@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - config file, SMTP cleanup, beginnings of a server
-categories:
+tags:
 - Free Software
 - mail
 - nodejs

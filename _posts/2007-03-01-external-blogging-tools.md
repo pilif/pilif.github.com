@@ -1,7 +1,7 @@
 ---
 layout: post
 title: External blogging tools
-categories:
+tags:
 - bloggin
 - gnegg.ch
 - textmate

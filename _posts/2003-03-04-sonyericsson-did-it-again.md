@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SonyEricsson did it again...
-categories:
+tags:
 - Hardware
 status: publish
 type: post

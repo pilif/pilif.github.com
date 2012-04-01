@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No. It's not \xC2\xABjust\xC2\xBB strings"
-categories:
+tags:
 - encoding
 - Programming
 - Software

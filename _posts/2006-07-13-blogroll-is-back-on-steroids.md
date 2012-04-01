@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogroll is back - on steroids
-categories:
+tags:
 - Free Software
 - gnegg.ch
 - PHP

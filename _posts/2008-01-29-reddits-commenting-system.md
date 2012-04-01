@@ -1,7 +1,7 @@
 ---
 layout: post
 title: reddit's commenting system
-categories:
+tags:
 - commenting
 - opinion
 - reddit

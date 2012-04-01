@@ -1,7 +1,7 @@
 ---
 layout: post
 title: updated sacy - now with more coffee
-categories:
+tags:
 - programming
 - php
 - smarty

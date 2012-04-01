@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Save query
-categories:
+tags:
 - Usability
 status: publish
 type: post

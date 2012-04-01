@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is that still POP3?
-categories:
+tags:
 - Opinions
 status: publish
 type: post

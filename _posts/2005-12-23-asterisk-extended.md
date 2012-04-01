@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asterisk Extended
-categories:
+tags:
 - Free Software
 - Unix
 - VoIP

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - another day
-categories:
+tags:
 - Free Software
 - javascript
 - nodejs

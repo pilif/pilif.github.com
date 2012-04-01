@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PHP, stream filters, bzip2.compress
-categories:
+tags:
 - bug
 - bzip2
 - filter

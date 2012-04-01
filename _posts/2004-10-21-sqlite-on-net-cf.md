@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQLite on .NET CF
-categories:
+tags:
 - Programming
 - Software
 - Solutions

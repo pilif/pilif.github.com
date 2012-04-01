@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computers under my command (2): marle"
-categories:
+tags:
 - Hardware
 - Personal
 - Unix

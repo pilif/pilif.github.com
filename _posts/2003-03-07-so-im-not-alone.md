@@ -1,7 +1,7 @@
 ---
 layout: post
 title: So I'm not alone...
-categories:
+tags:
 - Opinions
 - Personal
 status: publish

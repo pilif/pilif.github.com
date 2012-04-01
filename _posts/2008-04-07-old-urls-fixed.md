@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Old URLs fixed
-categories:
+tags:
 - gnegg.ch
 - Solutions
 status: publish

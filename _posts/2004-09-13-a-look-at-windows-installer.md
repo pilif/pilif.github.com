@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A look at Windows Installer
-categories:
+tags:
 - Programming
 - Software
 status: publish

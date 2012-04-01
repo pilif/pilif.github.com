@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another reason to buy a mac...
-categories:
+tags:
 - Mac
 status: publish
 type: post

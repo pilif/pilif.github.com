@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sticking to the iPhone
-categories:
+tags:
 - apple
 - Hardware
 - iphone

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Button placement
-categories:
+tags:
 - activesync
 - pocketpc
 - rant

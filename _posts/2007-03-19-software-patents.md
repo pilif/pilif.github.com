@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software patents
-categories:
+tags:
 - ip
 - lawyers
 - patents

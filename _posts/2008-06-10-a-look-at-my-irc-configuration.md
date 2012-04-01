@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A look at my IRC configuration
-categories:
+tags:
 - bouncer
 - irc
 - Software

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Powerbook runs XP
-categories:
+tags:
 - Hardware
 - Mac
 status: publish

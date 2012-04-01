@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A rant on brace placement
-categories:
+tags:
 - Opinions
 - Programming
 - rant

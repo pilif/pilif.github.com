@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mac Mail: Can software perform worse?"
-categories:
+tags:
 - Mac
 - Opinions
 status: publish

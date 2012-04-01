@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PostgreSQL on Ubuntu
-categories:
+tags:
 - Free Software
 - gentoo
 - postgres

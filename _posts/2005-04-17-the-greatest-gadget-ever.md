@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The greatest gadget ever
-categories:
+tags:
 - Hardware
 status: publish
 type: post

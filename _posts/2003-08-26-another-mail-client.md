@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another Mail client
-categories:
+tags:
 - Software
 status: publish
 type: post

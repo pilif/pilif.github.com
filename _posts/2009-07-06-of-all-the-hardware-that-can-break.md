@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Of all the hardware that can break...
-categories:
+tags:
 - gefen
 - Hardware
 - homecinema

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No more blur
-categories:
+tags:
 - Hardware
 status: publish
 type: post

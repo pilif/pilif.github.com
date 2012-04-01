@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upscaling video
-categories:
+tags:
 - ffdshow
 - hd
 - Solutions

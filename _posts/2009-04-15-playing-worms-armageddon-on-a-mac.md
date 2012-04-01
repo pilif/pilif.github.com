@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Playing Worms Armageddon on a Mac
-categories:
+tags:
 - Games
 - Mac
 - solution

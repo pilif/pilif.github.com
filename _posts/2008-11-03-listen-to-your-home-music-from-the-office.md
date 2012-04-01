@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listen to your home music from the office
-categories:
+tags:
 - itunes
 - Mac
 - mp3

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Productive with Delphi 2005
-categories:
+tags:
 - Delphi
 status: publish
 type: post

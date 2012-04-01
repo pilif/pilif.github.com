@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yippieh! - New Software
-categories:
+tags:
 - Hardware
 status: publish
 type: post

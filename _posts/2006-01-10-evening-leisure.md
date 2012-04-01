@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evening leisure
-categories:
+tags:
 - Personal
 - Solutions
 status: publish

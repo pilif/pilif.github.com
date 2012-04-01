@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PostgreSQL 7.3 - it works
-categories:
+tags:
 - Free Software
 status: publish
 type: post

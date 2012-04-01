@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Updating or replacing datasets
-categories:
+tags:
 - database
 - performance
 - Programming

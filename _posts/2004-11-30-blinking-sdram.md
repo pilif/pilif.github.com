@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blinking SDRAM?
-categories:
+tags:
 - Hardware
 status: publish
 type: post

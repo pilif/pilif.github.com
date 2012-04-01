@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two years of gnegg.ch
-categories:
+tags:
 - gnegg.ch
 status: publish
 type: post

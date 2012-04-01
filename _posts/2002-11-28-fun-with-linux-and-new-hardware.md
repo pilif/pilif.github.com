@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fun with Linux and new Hardware
-categories:
+tags:
 - Hardware
 - Unix
 status: publish

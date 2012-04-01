@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New MacMini (early 09) and Linux
-categories:
+tags:
 - Free Software
 - Hardware
 - linux

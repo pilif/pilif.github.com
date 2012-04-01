@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenStreetMap
-categories:
+tags:
 - Free Software
 - Personal
 - Software

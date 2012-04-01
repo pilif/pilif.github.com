@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OS X 10.4.8 - Update gone wrong
-categories:
+tags:
 - fix
 - Mac
 - osx

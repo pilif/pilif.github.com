@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Final Fantasy in concert
-categories:
+tags:
 - Games
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSS - I'm getting into it
-categories:
+tags:
 - gnegg.ch
 status: publish
 type: post

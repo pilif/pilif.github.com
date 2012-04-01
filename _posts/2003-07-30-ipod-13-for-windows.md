@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iPod 1.3 for windows
-categories:
+tags:
 - Hardware
 status: publish
 type: post

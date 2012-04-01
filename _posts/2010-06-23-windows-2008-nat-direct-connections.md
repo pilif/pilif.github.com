@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 2008  / NAT / Direct connections
-categories:
+tags:
 - networking
 - routing
 - Software

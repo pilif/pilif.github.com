@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dependent on working infrastructure
-categories:
+tags:
 - bug
 - Free Software
 - lighttpd

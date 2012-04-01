@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Usability with the Browse for folder dialog
-categories:
+tags:
 - Usability
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Double double dash
-categories:
+tags:
 - Games
 status: publish
 type: post

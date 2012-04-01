@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to kill IE performance
-categories:
+tags:
 - ie
 - javascript
 - jquery

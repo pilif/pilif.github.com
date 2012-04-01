@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Installer - Worked around
-categories:
+tags:
 - development
 - msi
 - Programming

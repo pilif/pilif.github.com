@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opera Mini
-categories:
+tags:
 - Software
 status: publish
 type: post

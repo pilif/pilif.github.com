@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firebird and Thunderbird
-categories:
+tags:
 - Free Software
 status: publish
 type: post

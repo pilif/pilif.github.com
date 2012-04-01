@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mail filtering belongs on the server
-categories:
+tags:
 - apple
 - browser
 - gprs

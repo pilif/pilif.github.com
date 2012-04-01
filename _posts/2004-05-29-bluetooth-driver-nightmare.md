@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bluetooth driver nightmare
-categories:
+tags:
 - Solutions
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: pointers, sizes
-categories:
+tags:
 - Delphi
 - funny
 - Programming

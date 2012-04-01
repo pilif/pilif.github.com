@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The myth of XCOPY deployment
-categories:
+tags:
 - Delphi
 - Opinions
 - Programming

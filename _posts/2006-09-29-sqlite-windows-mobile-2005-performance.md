@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQLite, Windows Mobile 2005, Performance
-categories:
+tags:
 - Programming
 - Solutions
 - sqlite

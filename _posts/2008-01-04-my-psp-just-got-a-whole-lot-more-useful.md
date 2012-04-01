@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My PSP just got a whole lot more useful
-categories:
+tags:
 - Games
 - hack
 - m33

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New PowerMacs
-categories:
+tags:
 - Hardware
 - Mac
 status: publish

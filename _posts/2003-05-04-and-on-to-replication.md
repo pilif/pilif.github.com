@@ -1,7 +1,7 @@
 ---
 layout: post
 title: And on to replication
-categories:
+tags:
 - Free Software
 - Unix
 status: publish

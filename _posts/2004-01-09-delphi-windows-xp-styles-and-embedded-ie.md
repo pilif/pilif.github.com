@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Delphi, Windows XP, Styles and embedded IE
-categories:
+tags:
 - Delphi
 - Programming
 - Solutions

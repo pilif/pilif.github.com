@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computers under my command (3): terra"
-categories:
+tags:
 - Hardware
 - Personal
 status: publish

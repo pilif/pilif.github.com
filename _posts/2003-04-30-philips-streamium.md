@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Philips Streamium
-categories:
+tags:
 - Hardware
 status: publish
 type: post

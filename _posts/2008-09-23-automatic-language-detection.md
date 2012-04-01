@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatic language detection
-categories:
+tags:
 - Programming
 - rant
 - Software

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: pptp + linux = much fun.
-categories:
+tags:
 - Software
 - Unix
 status: publish

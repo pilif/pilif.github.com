@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RAM for my MacBook Pro
-categories:
+tags:
 - Hardware
 - Mac
 status: publish

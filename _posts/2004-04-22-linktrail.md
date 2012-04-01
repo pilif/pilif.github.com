@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linktrail
-categories:
+tags:
 - Personal
 - PHP
 status: publish

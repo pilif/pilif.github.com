@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My favourite asterisk feature
-categories:
+tags:
 - asterisk
 - fun
 - prank

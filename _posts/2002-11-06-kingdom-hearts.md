@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kingdom Hearts
-categories:
+tags:
 - Games
 status: publish
 type: post

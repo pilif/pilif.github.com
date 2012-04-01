@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SSH daemon on installation CD
-categories:
+tags:
 - Software
 status: publish
 type: post

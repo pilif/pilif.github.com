@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A praise to VMWare Server
-categories:
+tags:
 - Software
 status: publish
 type: post

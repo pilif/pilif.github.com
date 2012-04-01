@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PHP 5.3 and friends on Karmic
-categories:
+tags:
 - Free Software
 - karmic
 - packages

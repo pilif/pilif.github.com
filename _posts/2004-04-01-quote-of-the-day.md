@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quote of the day
-categories:
+tags:
 - Free Software
 - Personal
 status: publish

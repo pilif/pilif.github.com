@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What a tool
-categories:
+tags:
 - Hardware
 status: publish
 type: post

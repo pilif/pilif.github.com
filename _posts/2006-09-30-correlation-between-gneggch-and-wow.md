@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Correlation between gnegg.ch and WoW
-categories:
+tags:
 - addiction
 - feeling
 - gnegg.ch

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Converting Java keytool-certificates
-categories:
+tags:
 - codesign
 - java
 - Programming

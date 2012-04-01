@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More iPod fun
-categories:
+tags:
 - audiobook
 - hack
 - ipod

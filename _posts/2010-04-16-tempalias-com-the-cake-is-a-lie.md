@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - the cake is a lie
-categories:
+tags:
 - Free Software
 - github
 - nodejs

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Horror Movies and LCDs
-categories:
+tags:
 - Personal
 status: publish
 type: post

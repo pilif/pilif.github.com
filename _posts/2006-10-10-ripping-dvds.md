@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ripping DVDs
-categories:
+tags:
 - dvd
 - flat
 - Free Software

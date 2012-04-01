@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Howto kill your mac? Use Acrobat!
-categories:
+tags:
 - Mac
 status: publish
 type: post

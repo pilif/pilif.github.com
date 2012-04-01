@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nice summer
-categories:
+tags:
 - Personal
 status: publish
 type: post

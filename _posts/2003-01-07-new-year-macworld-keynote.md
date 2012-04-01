@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Year / Macworld Keynote
-categories:
+tags:
 - Mac
 status: publish
 type: post

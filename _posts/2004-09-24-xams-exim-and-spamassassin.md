@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XAMS (Exim) and SpamAssassin
-categories:
+tags:
 - Free Software
 - Software
 status: publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Praise to ZSH
-categories:
+tags:
 - Free Software
 - Unix
 status: publish

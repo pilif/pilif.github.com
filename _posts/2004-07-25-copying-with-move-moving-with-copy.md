@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Copying with MOVE? Moving with copy?
-categories:
+tags:
 - Delphi
 - Programming
 status: publish

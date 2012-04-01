@@ -1,7 +1,7 @@
 ---
 layout: post
 title: P800 and Bluetooth
-categories:
+tags:
 - Hardware
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OSX and OpenLDAP
-categories:
+tags:
 - Mac
 - Unix
 status: publish

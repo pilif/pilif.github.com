@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Each problem has a solution...
-categories:
+tags:
 - Opinions
 - Personal
 status: publish

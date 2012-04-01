@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template engines complexity
-categories:
+tags:
 - PHP
 - Programming
 status: publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responding to  search-strings (II)
-categories:
+tags:
 - Delphi
 - Programming
 status: publish

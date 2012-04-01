@@ -1,7 +1,7 @@
 ---
 layout: post
 title: That's it... for now
-categories:
+tags:
 - gnegg.ch
 status: publish
 type: post

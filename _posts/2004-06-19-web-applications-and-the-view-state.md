@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Applications and the View State
-categories:
+tags:
 - Opinions
 - Programming
 - session

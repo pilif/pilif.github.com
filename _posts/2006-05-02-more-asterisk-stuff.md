@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More Asterisk stuff
-categories:
+tags:
 - Free Software
 - Solutions
 - VoIP

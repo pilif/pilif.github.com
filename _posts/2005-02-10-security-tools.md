@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Security Tools
-categories:
+tags:
 - Opinions
 status: publish
 type: post

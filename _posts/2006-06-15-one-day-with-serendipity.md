@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One day with Serendipity
-categories:
+tags:
 - Free Software
 - gnegg.ch
 status: publish

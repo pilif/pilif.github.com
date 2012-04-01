@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wii in a home cinema
-categories:
+tags:
 - Hardware
 - nintendo
 - wii

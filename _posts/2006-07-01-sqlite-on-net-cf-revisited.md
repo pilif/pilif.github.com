@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQLite on .NET CF - Revisited
-categories:
+tags:
 - Free Software
 - Programming
 status: publish

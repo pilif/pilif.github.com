@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Altering the terminal title bar in Mac OS X
-categories:
+tags:
 - Mac
 - solution
 - Solutions

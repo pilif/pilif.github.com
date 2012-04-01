@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The atmosphere in good games
-categories:
+tags:
 - feeling
 - gamecube
 - Games

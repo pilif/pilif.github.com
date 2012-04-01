@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another platform change
-categories:
+tags:
 - Personal
 - self
 status: publish

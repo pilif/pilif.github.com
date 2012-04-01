@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Usable Playstation emulation
-categories:
+tags:
 - Games
 - Software
 status: publish

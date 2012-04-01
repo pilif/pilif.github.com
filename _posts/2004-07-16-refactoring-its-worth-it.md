@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refactoring - It's worth it
-categories:
+tags:
 - Delphi
 - Opinions
 - Programming

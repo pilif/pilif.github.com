@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The IE rendering dilemma
-categories:
+tags:
 - bug
 - ie7
 - ie8

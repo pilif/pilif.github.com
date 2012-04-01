@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OAuth signature methods
-categories:
+tags:
 - oauth
 - Programming
 - security

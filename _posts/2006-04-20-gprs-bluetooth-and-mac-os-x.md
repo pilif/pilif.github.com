@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GPRS, Bluetooth and Mac OS X
-categories:
+tags:
 - Mac
 status: publish
 type: post

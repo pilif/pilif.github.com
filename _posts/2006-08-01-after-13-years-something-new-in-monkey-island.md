@@ -1,7 +1,7 @@
 ---
 layout: post
 title: After 13 years something new in Monkey Island
-categories:
+tags:
 - Games
 - monkey island
 - scummvm

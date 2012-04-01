@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PHP scales well
-categories:
+tags:
 - Free Software
 - Opinions
 - PHP

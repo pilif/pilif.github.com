@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where have I been?
-categories:
+tags:
 - gnegg.ch
 - Personal
 status: publish

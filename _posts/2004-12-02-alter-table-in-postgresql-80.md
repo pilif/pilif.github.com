@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALTER TABLE in PostgreSQL 8.0
-categories:
+tags:
 - Free Software
 - Unix
 status: publish

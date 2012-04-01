@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The mother of all rubber duckies
-categories:
+tags:
 - flat
 - furniture
 - Personal

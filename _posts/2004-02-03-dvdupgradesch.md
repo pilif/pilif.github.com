@@ -1,7 +1,7 @@
 ---
 layout: post
 title: dvdupgrades.ch
-categories:
+tags:
 - Hardware
 - Personal
 status: publish

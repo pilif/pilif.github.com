@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check for update
-categories:
+tags:
 - Opinions
 - Usability
 status: publish

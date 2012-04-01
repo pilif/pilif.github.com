@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ServeRAID - Fun with GUI-Tools
-categories:
+tags:
 - Hardware
 - ipssend
 - linux

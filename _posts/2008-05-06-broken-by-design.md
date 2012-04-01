@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Broken by design
-categories:
+tags:
 - Free Software
 - harmony
 - homecinema

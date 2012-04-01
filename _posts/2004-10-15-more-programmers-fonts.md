@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More programmers fonts
-categories:
+tags:
 - Programming
 status: publish
 type: post

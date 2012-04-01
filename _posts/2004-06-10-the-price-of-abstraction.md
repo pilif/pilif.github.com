@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The price of abstraction
-categories:
+tags:
 - Opinions
 - Programming
 status: publish

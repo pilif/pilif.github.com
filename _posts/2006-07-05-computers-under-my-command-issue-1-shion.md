@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computers under my command - Issue 1: shion"
-categories:
+tags:
 - Hardware
 - Personal
 - Unix

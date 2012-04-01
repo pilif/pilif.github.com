@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - now with bookmarklet
-categories:
+tags:
 - bookmarklet
 - javascript
 - nodejs

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PostgreSQL vs. MySQL - a subjective view
-categories:
+tags:
 - Free Software
 status: publish
 type: post

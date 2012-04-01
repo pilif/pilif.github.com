@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Favourite Thunderbird Extensions
-categories:
+tags:
 - Free Software
 status: publish
 type: post

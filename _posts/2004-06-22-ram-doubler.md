@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RAM doubler ;-)
-categories:
+tags:
 - Solutions
 - Unix
 status: publish

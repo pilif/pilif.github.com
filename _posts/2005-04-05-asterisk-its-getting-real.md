@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asterisk - it's getting real
-categories:
+tags:
 - Free Software
 - Unix
 - VoIP

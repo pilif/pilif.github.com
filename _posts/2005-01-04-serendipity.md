@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Serendipity
-categories:
+tags:
 - Free Software
 - Programming
 - Software

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Failing silently is bad
-categories:
+tags:
 - databases
 - Software
 - typo3

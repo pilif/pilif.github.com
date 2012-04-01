@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - creating the bookmarklet
-categories:
+tags:
 - javascript
 - jquery
 - nodejs

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XP SP2, Delphi Debugger
-categories:
+tags:
 - Software
 status: publish
 type: post

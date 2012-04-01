@@ -1,7 +1,7 @@
 ---
 layout: post
 title: digg bar controversy
-categories:
+tags:
 - digg
 - Opinions
 - rant

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IE7 - Where is the menu?
-categories:
+tags:
 - Software
 - Usability
 status: publish

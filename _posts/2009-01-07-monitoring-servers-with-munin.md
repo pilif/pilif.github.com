@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monitoring servers with munin
-categories:
+tags:
 - Software
 - Unix
 status: publish

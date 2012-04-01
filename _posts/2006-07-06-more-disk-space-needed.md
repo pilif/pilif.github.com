@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More disk space needed
-categories:
+tags:
 - Software
 status: publish
 type: post

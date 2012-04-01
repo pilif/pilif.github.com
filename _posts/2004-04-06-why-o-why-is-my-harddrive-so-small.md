@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why o why is my harddrive so small?
-categories:
+tags:
 - Programming
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forchbahn: They don't want me to ride it."
-categories:
+tags:
 - Hardware
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lots of fun with OpenVPN
-categories:
+tags:
 - Free Software
 - Software
 - Solutions

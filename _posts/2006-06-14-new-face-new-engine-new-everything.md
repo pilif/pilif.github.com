@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New face, new engine, new everything
-categories:
+tags:
 - gnegg.ch
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comments disabled
-categories:
+tags:
 - gnegg.ch
 status: publish
 type: post

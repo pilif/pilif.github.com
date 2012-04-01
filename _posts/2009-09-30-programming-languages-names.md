@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming languages names
-categories:
+tags:
 - Opinions
 - Programming
 status: publish

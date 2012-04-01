@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Knives, Fingers and washing dishes
-categories:
+tags:
 - cooking
 - ouch
 - Personal

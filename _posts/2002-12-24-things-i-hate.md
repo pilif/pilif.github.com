@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Things I hate
-categories:
+tags:
 - Personal
 status: publish
 type: post

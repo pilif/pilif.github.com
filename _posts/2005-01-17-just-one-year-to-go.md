@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just one year to go...
-categories:
+tags:
 - Personal
 status: publish
 type: post

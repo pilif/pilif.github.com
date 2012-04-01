@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IBM Thinkpad 42
-categories:
+tags:
 - Hardware
 status: publish
 type: post

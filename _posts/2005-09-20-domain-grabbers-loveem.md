@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Domain grabbers - love'em
-categories:
+tags:
 - Personal
 status: publish
 type: post

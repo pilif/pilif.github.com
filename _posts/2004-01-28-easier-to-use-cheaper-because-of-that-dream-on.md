@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Easier to use? Cheaper because of that? Dream on!
-categories:
+tags:
 - Personal
 - Usability
 status: publish

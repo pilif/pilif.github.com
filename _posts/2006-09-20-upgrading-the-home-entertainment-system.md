@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrading the home entertainment system
-categories:
+tags:
 - Hardware
 - Personal
 - Solutions

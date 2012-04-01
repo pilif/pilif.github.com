@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World Of Warcraft - A little Newbie-Guide
-categories:
+tags:
 - Games
 status: publish
 type: post

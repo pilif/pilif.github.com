@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vista preloaded
-categories:
+tags:
 - lenovo
 - oem
 - preload

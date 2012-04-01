@@ -1,7 +1,7 @@
 ---
 layout: post
 title: stabilizing tempalias
-categories:
+tags:
 - bugs
 - crash
 - lucky

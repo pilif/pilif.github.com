@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How journalism should not be done
-categories:
+tags:
 - Opinions
 status: publish
 type: post

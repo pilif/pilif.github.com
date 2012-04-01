@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I hate about PHP
-categories:
+tags:
 - Free Software
 - PHP
 - Programming

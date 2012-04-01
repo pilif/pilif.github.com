@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gentoo and Jabber
-categories:
+tags:
 - Free Software
 - Unix
 status: publish

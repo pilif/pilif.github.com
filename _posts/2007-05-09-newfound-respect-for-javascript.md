@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Newfound respect for JavaScript
-categories:
+tags:
 - ajax
 - javascript
 - movie

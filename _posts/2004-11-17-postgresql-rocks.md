@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PostgreSQL rocks!
-categories:
+tags:
 - Free Software
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruby on Rails
-categories:
+tags:
 - Free Software
 status: publish
 type: post

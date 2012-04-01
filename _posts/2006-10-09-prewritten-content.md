@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prewritten content
-categories:
+tags:
 - blog
 - gnegg.ch
 - s9y

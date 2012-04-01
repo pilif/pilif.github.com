@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pragmatic AJAX
-categories:
+tags:
 - Books
 status: publish
 type: post

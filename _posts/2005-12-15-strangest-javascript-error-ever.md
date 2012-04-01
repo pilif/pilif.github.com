@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strangest JavaScript error ever
-categories:
+tags:
 - Programming
 - Solutions
 - Usability

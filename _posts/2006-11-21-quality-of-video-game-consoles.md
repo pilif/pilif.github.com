@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quality of video game consoles
-categories:
+tags:
 - feeling
 - game
 - Games

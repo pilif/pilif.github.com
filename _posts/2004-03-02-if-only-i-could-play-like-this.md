@@ -1,7 +1,7 @@
 ---
 layout: post
 title: If only I could play like this
-categories:
+tags:
 - Games
 status: publish
 type: post

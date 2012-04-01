@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Closed Source on Linux
-categories:
+tags:
 - distributions
 - Free Software
 - linux

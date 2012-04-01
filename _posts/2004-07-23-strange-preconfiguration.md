@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strange preconfiguration
-categories:
+tags:
 - Free Software
 - Software
 status: publish

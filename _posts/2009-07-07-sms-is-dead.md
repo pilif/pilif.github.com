@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SMS is dead
-categories:
+tags:
 - Opinions
 status: publish
 type: post

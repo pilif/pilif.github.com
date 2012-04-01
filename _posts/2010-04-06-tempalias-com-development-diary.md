@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - development diary
-categories:
+tags:
 - development
 - express
 - Free Software

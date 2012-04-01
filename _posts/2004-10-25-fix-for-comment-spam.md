@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fix for comment spam?
-categories:
+tags:
 - gnegg.ch
 status: publish
 type: post

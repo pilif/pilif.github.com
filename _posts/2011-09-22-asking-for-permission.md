@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asking for permission
-categories:
+tags:
 - opinion
 - programming
 status: publish

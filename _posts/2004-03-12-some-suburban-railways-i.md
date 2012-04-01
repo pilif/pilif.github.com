@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some suburban railways (I).
-categories:
+tags:
 - Hardware
 status: publish
 type: post

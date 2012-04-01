@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A programmers Editor...
-categories:
+tags:
 - PHP
 - Programming
 - Software

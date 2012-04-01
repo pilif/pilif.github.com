@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WinInet, Proxies and NTLM
-categories:
+tags:
 - Delphi
 - Programming
 - Solutions

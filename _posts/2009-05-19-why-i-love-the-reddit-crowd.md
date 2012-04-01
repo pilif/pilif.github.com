@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I love the reddit crowd
-categories:
+tags:
 - Opinions
 - opinon
 - Personal

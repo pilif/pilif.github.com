@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oldstyle HTML - the worst offenders
-categories:
+tags:
 - dad
 - mail
 - Opinions

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soundblaster Audigy 2 NX Driver
-categories:
+tags:
 - Software
 status: publish
 type: post

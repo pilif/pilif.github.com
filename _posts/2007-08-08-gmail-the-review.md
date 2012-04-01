@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gmail - The review
-categories:
+tags:
 - gmail
 - mail
 - outlook

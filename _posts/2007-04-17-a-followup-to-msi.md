@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A followup to MSI
-categories:
+tags:
 - msi
 - opinion
 - Programming

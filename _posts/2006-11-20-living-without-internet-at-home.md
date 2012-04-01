@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Living without internet at home
-categories:
+tags:
 - cablecom
 - flat
 - internet

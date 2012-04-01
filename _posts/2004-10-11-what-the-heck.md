@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the heck?
-categories:
+tags:
 - Free Software
 status: publish
 type: post

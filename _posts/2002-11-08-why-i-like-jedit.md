@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I like jEdit
-categories:
+tags:
 - Free Software
 - Software
 status: publish

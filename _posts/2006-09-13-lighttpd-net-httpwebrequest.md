@@ -1,7 +1,7 @@
 ---
 layout: post
 title: lighttpd, .NET, HttpWebRequest
-categories:
+tags:
 - Programming
 - Solutions
 status: publish

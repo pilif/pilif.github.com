@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Full text search for outlook
-categories:
+tags:
 - Software
 status: publish
 type: post

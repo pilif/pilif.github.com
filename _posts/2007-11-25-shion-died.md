@@ -1,7 +1,7 @@
 ---
 layout: post
 title: shion died
-categories:
+tags:
 - Hardware
 - Personal
 - pilif

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managed switch
-categories:
+tags:
 - Hardware
 - networking
 - shion

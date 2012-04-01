@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mod_perl or not to mod_perl
-categories:
+tags:
 - gnegg.ch
 status: publish
 type: post

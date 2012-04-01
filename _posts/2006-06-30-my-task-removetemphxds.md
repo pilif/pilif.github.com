@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My task: RemoveTempHxDs"
-categories:
+tags:
 - Usability
 status: publish
 type: post

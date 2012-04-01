@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Vista, Networking, Timeouts
-categories:
+tags:
 - Software
 - Solutions
 status: publish

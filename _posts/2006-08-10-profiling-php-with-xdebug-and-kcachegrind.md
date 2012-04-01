@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Profiling PHP with Xdebug and KCacheGrind
-categories:
+tags:
 - Free Software
 - PHP
 - Programming

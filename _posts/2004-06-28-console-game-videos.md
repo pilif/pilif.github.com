@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Console game Videos
-categories:
+tags:
 - Games
 status: publish
 type: post

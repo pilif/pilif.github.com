@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Broken Sword III
-categories:
+tags:
 - Games
 status: publish
 type: post

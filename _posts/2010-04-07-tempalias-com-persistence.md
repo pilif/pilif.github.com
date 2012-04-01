@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - persistence
-categories:
+tags:
 - Free Software
 - nodejs
 - Programming

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Great things coming
-categories:
+tags:
 - Personal
 status: publish
 type: post

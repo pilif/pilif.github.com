@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Programming with CSS
-categories:
+tags:
 - Opinions
 - Programming
 status: publish

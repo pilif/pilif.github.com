@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How we use git
-categories:
+tags:
 - development
 - dvcs
 - git

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I dislike about Java
-categories:
+tags:
 - Programming
 - Software
 status: publish

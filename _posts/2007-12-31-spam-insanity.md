@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SPAM insanity
-categories:
+tags:
 - dspam
 - mail
 - Opinions

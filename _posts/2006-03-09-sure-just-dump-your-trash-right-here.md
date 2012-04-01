@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sure. Just dump your trash right here!
-categories:
+tags:
 - Opinions
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AirPort basesation and external DHCP server
-categories:
+tags:
 - Hardware
 - Mac
 - Solutions

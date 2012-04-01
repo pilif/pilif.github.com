@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This month's find: jna and applet-launcher"
-categories:
+tags:
 - applet
 - Hardware
 - java

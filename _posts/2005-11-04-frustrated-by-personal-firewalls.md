@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frustrated by personal firewalls
-categories:
+tags:
 - Opinions
 status: publish
 type: post

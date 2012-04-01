@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strange ideas gone wrong
-categories:
+tags:
 - apply
 - Usability
 - windows

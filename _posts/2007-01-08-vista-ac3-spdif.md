@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vista, AC3, S/PDIF
-categories:
+tags:
 - ac3
 - cinema
 - solution

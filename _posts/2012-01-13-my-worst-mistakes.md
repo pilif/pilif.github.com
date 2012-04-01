@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My worst mistakes in programming
-categories:
+tags:
 - programming
 - code
 - design

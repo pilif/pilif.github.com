@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life is good
-categories:
+tags:
 - anti-rant
 - Hardware
 - opinion

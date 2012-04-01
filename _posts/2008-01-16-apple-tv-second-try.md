@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple TV - Second try
-categories:
+tags:
 - apple
 - Hardware
 - hd

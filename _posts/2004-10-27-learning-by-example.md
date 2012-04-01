@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning by example
-categories:
+tags:
 - Books
 - Opinions
 - Personal

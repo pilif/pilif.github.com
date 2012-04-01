@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flattening Arrow Code
-categories:
+tags:
 - Opinions
 - Programming
 status: publish

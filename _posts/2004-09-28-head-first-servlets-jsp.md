@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Head First Servlets &amp; JSP
-categories:
+tags:
 - Books
 - Programming
 status: publish

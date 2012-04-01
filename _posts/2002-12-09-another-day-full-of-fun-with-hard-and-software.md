@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another day full of "fun" with hard- and software
-categories:
+tags:
 - Mac
 - Personal
 status: publish

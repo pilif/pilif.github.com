@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HD-DVD unlocked
-categories:
+tags:
 - drm
 - hd-dvd
 - homecinema

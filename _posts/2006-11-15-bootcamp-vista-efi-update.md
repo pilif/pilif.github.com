@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bootcamp, Vista, EFI-Update
-categories:
+tags:
 - drivers
 - Mac
 - Software

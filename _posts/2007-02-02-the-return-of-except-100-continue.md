@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The return of Expect: 100-continue"
-categories:
+tags:
 - http
 - lighttpd
 - PHP

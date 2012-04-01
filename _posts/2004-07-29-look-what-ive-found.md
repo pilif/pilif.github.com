@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Look what I've found!
-categories:
+tags:
 - Personal
 status: publish
 type: post

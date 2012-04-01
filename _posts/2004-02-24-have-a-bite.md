@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have a bite...
-categories:
+tags:
 - Personal
 status: publish
 type: post

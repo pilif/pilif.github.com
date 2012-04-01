@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which phone for me?
-categories:
+tags:
 - Hardware
 - iphone
 - Opinions

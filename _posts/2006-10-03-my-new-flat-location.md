@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My new Flat - Location
-categories:
+tags:
 - feeling
 - flat
 - forest

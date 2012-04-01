@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back from vacation
-categories:
+tags:
 - Personal
 status: publish
 type: post

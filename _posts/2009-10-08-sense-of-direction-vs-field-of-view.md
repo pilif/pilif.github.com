@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sense of direction vs. field of view
-categories:
+tags:
 - feeling
 - game
 - Games

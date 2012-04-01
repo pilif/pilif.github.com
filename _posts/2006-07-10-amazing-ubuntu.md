@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazing Ubuntu
-categories:
+tags:
 - Free Software
 - Software
 - Unix

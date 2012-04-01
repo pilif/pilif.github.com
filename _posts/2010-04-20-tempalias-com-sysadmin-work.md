@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - sysadmin work
-categories:
+tags:
 - Free Software
 - iptables
 - linux

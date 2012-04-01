@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Converting ogg streams into mp3 ones
-categories:
+tags:
 - Free Software
 - git
 - ogg

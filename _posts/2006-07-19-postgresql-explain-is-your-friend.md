@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PostgreSQL: Explain is your friend"
-categories:
+tags:
 - Software
 status: publish
 type: post

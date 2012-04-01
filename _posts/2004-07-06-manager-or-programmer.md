@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manager or programmer
-categories:
+tags:
 - Opinions
 - Programming
 status: publish

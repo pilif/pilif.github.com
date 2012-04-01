@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sorry. Connection's down
-categories:
+tags:
 - Usability
 status: publish
 type: post

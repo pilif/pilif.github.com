@@ -1,7 +1,7 @@
 ---
 layout: post
 title: They just don't want my money
-categories:
+tags:
 - bittorrent
 - Games
 status: publish

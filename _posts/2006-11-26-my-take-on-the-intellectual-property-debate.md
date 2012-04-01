@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My take on the intellectual property debate
-categories:
+tags:
 - copyright
 - Opinions
 - Personal

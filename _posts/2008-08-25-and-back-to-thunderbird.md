@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ... and back to Thunderbird
-categories:
+tags:
 - gmail
 - mail
 - Opinions

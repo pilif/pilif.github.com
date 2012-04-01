@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WoW: Language Hacking"
-categories:
+tags:
 - Games
 - Solutions
 status: publish

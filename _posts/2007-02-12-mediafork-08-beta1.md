@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MediaFork 0.8-beta1
-categories:
+tags:
 - dvd
 - handbrake
 - Mac

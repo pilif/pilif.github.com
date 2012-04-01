@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What a cute fairy this is...
-categories:
+tags:
 - Personal
 status: publish
 type: post

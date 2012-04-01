@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eclipse, CVS and putty
-categories:
+tags:
 - Programming
 - Solutions
 status: publish

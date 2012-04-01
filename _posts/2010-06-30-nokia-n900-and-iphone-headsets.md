@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nokia N900 and iPhone headsets?
-categories:
+tags:
 - Hardware
 - headset
 - n900

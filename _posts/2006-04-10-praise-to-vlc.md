@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Praise to VLC
-categories:
+tags:
 - Free Software
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zwei Affichen
-categories:
+tags:
 - Personal
 status: publish
 type: post

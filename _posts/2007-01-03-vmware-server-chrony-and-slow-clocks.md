@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VMWare Server, chrony and slow clocks
-categories:
+tags:
 - chrony
 - linux
 - Software

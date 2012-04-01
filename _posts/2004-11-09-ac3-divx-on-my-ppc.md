@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AC3-Divx on my PPC
-categories:
+tags:
 - Free Software
 - Software
 - Solutions

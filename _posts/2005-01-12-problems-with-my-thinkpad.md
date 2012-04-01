@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Problems with my Thinkpad
-categories:
+tags:
 - Hardware
 status: publish
 type: post

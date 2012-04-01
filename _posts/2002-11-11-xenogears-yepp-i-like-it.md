@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Xenogears - Yepp. I like it
-categories:
+tags:
 - Games
 status: publish
 type: post

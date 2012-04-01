@@ -1,7 +1,7 @@
 ---
 layout: post
 title: updated sacy - now with external tools
-categories:
+tags:
 - programming
 - php
 - smarty

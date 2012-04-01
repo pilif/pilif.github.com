@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extreme fun with Linux
-categories:
+tags:
 - Free Software
 - Programming
 status: publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Epic SSL fail
-categories:
+tags:
 - funny
 - Software
 - ssl

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Apps: Mail Routing"
-categories:
+tags:
 - email
 - google
 - networking

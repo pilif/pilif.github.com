@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What sucks about the Touch Diamond
-categories:
+tags:
 - Hardware
 - Opinions
 - phone

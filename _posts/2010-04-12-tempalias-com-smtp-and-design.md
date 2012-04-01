@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - SMTP and design
-categories:
+tags:
 - Free Software
 - javascript
 - nodejs

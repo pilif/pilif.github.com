@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refactoring - If only I'd had time
-categories:
+tags:
 - Delphi
 - Opinions
 - Programming

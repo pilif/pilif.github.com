@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bugs, Bugs and more Bugs
-categories:
+tags:
 - bugs
 - grrr
 - Hardware

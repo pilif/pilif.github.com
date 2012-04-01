@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to get a Lamp
-categories:
+tags:
 - Hardware
 - Solutions
 status: publish

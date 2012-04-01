@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The new iPods
-categories:
+tags:
 - Hardware
 - ipod
 - Mac

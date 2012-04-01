@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncing, Syncing and Syncing....
-categories:
+tags:
 - Software
 status: publish
 type: post

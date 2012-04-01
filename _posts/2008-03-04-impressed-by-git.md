@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Impressed by git
-categories:
+tags:
 - git
 - Programming
 - Software

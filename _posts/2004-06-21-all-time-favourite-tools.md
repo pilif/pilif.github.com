@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All-time favourite Tools
-categories:
+tags:
 - Free Software
 - Opinions
 - Personal

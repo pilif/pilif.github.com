@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simplest possible RPCs in PHP
-categories:
+tags:
 - PHP
 - Programming
 - soap

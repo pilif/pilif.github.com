@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sonos news
-categories:
+tags:
 - Hardware
 - iphone
 - mp3

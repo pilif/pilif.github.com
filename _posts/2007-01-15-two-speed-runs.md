@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two speed runs
-categories:
+tags:
 - homecinema
 - sda
 - tas

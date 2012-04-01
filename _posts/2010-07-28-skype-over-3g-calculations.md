@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skype over 3G - calculations
-categories:
+tags:
 - 3g
 - background
 - iphone

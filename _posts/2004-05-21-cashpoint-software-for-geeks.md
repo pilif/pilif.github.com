@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cashpoint software for Geeks
-categories:
+tags:
 - Personal
 - Software
 status: publish

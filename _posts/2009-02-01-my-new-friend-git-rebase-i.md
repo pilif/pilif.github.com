@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My new friend: git rebase -i"
-categories:
+tags:
 - Free Software
 - git
 - Programming

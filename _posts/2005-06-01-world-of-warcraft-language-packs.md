@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "World of Warcraft: Language Packs"
-categories:
+tags:
 - Games
 status: publish
 type: post

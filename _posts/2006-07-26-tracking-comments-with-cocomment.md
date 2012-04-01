@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tracking comments with cocomment
-categories:
+tags:
 - Software
 - Solutions
 status: publish

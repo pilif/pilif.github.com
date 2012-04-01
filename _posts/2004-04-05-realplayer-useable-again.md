@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RealPlayer - Useable again?
-categories:
+tags:
 - Opinions
 status: publish
 type: post

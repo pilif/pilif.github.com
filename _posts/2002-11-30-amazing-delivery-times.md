@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazing delivery times
-categories:
+tags:
 - Personal
 status: publish
 type: post

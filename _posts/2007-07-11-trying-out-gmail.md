@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trying out Gmail
-categories:
+tags:
 - gmail
 - google
 - imap

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tales of Symphonia
-categories:
+tags:
 - Games
 status: publish
 type: post

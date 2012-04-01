@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just another debian install
-categories:
+tags:
 - Free Software
 - Solutions
 status: publish

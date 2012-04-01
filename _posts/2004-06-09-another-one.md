@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another one...
-categories:
+tags:
 - Usability
 status: publish
 type: post

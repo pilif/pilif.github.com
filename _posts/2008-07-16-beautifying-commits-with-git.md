@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beautifying commits with git
-categories:
+tags:
 - git
 - Programming
 - vcs

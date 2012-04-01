@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internet Explorer, File Downloads, PHP
-categories:
+tags:
 - PHP
 - Programming
 status: publish

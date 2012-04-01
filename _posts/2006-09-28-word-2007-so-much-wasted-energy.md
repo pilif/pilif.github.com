@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Word 2007 - So much wasted energy
-categories:
+tags:
 - Opinions
 - rant
 - Software

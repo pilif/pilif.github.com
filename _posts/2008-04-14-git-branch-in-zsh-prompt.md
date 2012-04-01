@@ -1,7 +1,7 @@
 ---
 layout: post
 title: git branch in ZSH prompt
-categories:
+tags:
 - git
 - solution
 - Solutions

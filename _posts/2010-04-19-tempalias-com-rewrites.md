@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - rewrites
-categories:
+tags:
 - ab
 - cache
 - Free Software

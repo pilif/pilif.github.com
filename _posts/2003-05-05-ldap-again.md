@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LDAP again...
-categories:
+tags:
 - Free Software
 - Unix
 status: publish

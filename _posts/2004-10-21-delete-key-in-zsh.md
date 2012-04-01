@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Delete-Key in zsh
-categories:
+tags:
 - Free Software
 - Unix
 status: publish

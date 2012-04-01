@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All-time favourite tools - update
-categories:
+tags:
 - Free Software
 - git
 - jquery

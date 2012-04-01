@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The IE rendering dilemma - solved?
-categories:
+tags:
 - hack
 - ie8
 - Opinions

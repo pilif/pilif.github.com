@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing sacy, the Smarty Asset Compiler
-categories:
+tags:
 - Free Software
 - PHP
 - Programming

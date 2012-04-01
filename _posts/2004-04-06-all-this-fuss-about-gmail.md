@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All this fuss about Gmail
-categories:
+tags:
 - Opinions
 status: publish
 type: post

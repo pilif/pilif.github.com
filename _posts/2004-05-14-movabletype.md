@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MovableType
-categories:
+tags:
 - gnegg.ch
 status: publish
 type: post

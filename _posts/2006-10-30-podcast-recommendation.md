@@ -1,7 +1,7 @@
 ---
 layout: post
 title: podcast recommendation
-categories:
+tags:
 - feeling
 - Free Software
 - linux

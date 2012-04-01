@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World of Warcraft
-categories:
+tags:
 - Games
 status: publish
 type: post

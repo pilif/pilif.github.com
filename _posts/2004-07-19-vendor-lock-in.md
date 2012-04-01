@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vendor lock-in
-categories:
+tags:
 - Opinions
 status: publish
 type: post

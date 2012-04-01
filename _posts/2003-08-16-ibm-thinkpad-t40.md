@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IBM Thinkpad T40
-categories:
+tags:
 - Hardware
 status: publish
 type: post

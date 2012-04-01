@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Found on my iMac
-categories:
+tags:
 - Mac
 status: publish
 type: post

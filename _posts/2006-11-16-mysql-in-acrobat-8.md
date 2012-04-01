@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mysql in Acrobat 8
-categories:
+tags:
 - acrobat
 - adobe
 - gpl

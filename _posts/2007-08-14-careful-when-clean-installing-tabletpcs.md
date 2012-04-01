@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Careful when clean-installing TabletPCs
-categories:
+tags:
 - Hardware
 - solution
 - Solutions

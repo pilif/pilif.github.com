@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PostgreSQL scales
-categories:
+tags:
 - Free Software
 status: publish
 type: post

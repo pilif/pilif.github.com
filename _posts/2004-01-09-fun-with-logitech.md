@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fun with Logitech
-categories:
+tags:
 - Hardware
 - Software
 status: publish

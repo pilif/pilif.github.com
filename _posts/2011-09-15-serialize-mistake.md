@@ -1,7 +1,7 @@
 ---
 layout: post
 title: serialize() output is binary data!
-categories:
+tags:
 - PHP
 - solutions
 - programming

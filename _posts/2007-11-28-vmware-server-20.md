@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VMWare Server 2.0
-categories:
+tags:
 - linux
 - torrent
 - ubuntu

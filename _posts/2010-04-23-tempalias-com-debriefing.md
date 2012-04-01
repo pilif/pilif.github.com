@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tempalias.com - debriefing
-categories:
+tags:
 - done
 - finally
 - finished

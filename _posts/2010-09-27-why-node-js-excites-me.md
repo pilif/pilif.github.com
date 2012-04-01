@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why node.js excites me
-categories:
+tags:
 - javascript
 - opinion
 - tempalias

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: linktrail - a failed startup - introduction
-categories:
+tags:
 - linktrail
 - Personal
 - PHP

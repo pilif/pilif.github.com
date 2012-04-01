@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tweaking Mac OS X for the Linux/Windows user
-categories:
+tags:
 - Mac
 - Unix
 status: publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debugging PocketPCs
-categories:
+tags:
 - .net
 - Hardware
 - Programming

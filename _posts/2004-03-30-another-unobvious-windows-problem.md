@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another unobvious Windows problem
-categories:
+tags:
 - Software
 - Solutions
 status: publish

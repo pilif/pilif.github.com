@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Buzz, Android and Google Apps Accounts
-categories:
+tags:
 - android
 - annyoing
 - buzz

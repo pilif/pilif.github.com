@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 13 most annoying things of the P800 phone
-categories:
+tags:
 - Hardware
 status: publish
 type: post

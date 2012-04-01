@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Long time no see
-categories:
+tags:
 - Personal
 status: publish
 type: post

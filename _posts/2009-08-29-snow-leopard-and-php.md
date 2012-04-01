@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snow Leopard and PHP
-categories:
+tags:
 - Mac
 - PHP
 - snow leopard

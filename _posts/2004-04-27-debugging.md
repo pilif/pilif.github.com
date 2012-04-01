@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debugging
-categories:
+tags:
 - Delphi
 - Personal
 - Programming

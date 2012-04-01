@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web service authentication
-categories:
+tags:
 - Opinions
 - security
 - Software

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RSS Readers for PocketPC
-categories:
+tags:
 - Software
 status: publish
 type: post

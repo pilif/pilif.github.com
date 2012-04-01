@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World Of Warcraft Patch
-categories:
+tags:
 - Games
 status: publish
 type: post

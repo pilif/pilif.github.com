@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A worm named pilif?
-categories:
+tags:
 - gnegg.ch
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The best bittorrent client
-categories:
+tags:
 - Software
 status: publish
 type: post

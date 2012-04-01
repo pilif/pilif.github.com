@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The anatomy of a delphi crash
-categories:
+tags:
 - Programming
 - Software
 status: publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do spammers find pleasure in destroying fun stuff?
-categories:
+tags:
 - mail
 - Personal
 - Programming

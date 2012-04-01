@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firefo^WDeer Park Alpha 1
-categories:
+tags:
 - Free Software
 status: publish
 type: post

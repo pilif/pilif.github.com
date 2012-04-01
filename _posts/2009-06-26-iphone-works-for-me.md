@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iPhone works for me
-categories:
+tags:
 - Hardware
 - Opinions
 status: publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sprite avatars in Gravatar
-categories:
+tags:
 - avatar
 - chrono trigger
 - Games

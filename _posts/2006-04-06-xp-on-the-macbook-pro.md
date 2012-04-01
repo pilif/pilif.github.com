@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XP on the MacBook Pro
-categories:
+tags:
 - Mac
 status: publish
 type: post

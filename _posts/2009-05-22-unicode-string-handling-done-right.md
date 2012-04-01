@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (Unicode-)String handling done right
-categories:
+tags:
 - opinion
 - Opinions
 - Programming

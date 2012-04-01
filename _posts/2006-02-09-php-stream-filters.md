@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PHP Stream Filters
-categories:
+tags:
 - Free Software
 - PHP
 - Programming

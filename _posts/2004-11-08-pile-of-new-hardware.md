@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pile of new hardware
-categories:
+tags:
 - Hardware
 status: publish
 type: post

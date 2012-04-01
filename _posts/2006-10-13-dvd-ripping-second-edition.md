@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DVD ripping, second edition
-categories:
+tags:
 - dvd
 - Mac
 - Software

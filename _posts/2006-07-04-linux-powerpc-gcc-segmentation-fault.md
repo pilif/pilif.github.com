@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux, PowerPC, gcc, segmentation fault
-categories:
+tags:
 - Free Software
 - Solutions
 - Unix

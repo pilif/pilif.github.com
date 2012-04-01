@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two more bugs... gone!
-categories:
+tags:
 - gnegg.ch
 - Programming
 status: publish

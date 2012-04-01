@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Movable Type licensing
-categories:
+tags:
 - gnegg.ch
 - Opinions
 status: publish

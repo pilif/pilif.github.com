@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Six years of Sensational AG
-categories:
+tags:
 - Personal
 status: publish
 type: post

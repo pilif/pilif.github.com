@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explain This!
-categories:
+tags:
 - gnegg.ch
 - Personal
 status: publish

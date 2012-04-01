@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fun with SPAM
-categories:
+tags:
 - Personal
 status: publish
 type: post

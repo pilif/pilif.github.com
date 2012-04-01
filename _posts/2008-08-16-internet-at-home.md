@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internet at home
-categories:
+tags:
 - cablecom
 - Personal
 - rant

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No more hard drives for me!
-categories:
+tags:
 - Hardware
 - itunes
 - Mac
