@@ -1,0 +1,34 @@
+---
+layout: post
+title: The 13 most annoying things of the P800 phone
+categories:
+- Hardware
+status: publish
+type: post
+published: true
+meta: {}
+
+---
+I had to buy myself the <a href="http://www.sonyericsson.com">SonyEricsson</a> smartphone P800 as I really liked what all the reviews wrote about it. And it's cool. I really like it - much more than my former Nokia 7650 (don' t tell me that I am buying much too many cellphones. I know that, but I've not found <i>my</i> solution yet - at least not until I bought the P800...
+
+Anyway. During the first three days, I am using the phone, I came across the following list of annoying things, you should have in mind when buying the phone:
+
+<ul>
+ <li>The "Select all" Option in the Messaging-Application is quite well hidden. When I deceided to write this article here, I still thought there was no such option at all and I wanted to write a big complaint about having to select each and every sms in the "Sent"-Box to empty it. If you are in the place to design a GUI: Use Menu separators wise and don't mix toggle-options with commands. The "Select all" command is just above the display-toggle-option in the edit-menu (don't ask me what display-options have to do in a "Edit"-Menu)
+<li>There is no support for SMS-delivery-reports. A pity. I really liked the handling of SMS-reports in my Nokia 7650. But then: How many times did I really *read* those reports? Learn: Not every feature is that important to be implemented...
+<li>The handwriting recognition works really nice - besides that one problem: In PocketPCs and of course Palms, there is a seperate area on the screen for entering text. The P800 uses the whole screen. This seems nice as it allows you to write quite large letters. But actually it is a big problem: As the recognition area overlays the GUI, the software in the phone has to guess whether the current screen-contact was for a GUI-element (like a button) or a stroke. This combined with the fact that a dot (.) is just a line from top left to bottom right and with the extreme sensitivity of the recognition engine lead me to overwrite many textfields with a dot instead of pressing a button in the GUI - I made a small line instead of just a click. I really want to either have an extra recognition area or an adjustable sensitivity for the recognition.
+<li>Why is the Clock-Application not avaliable with a closed lid? I hate it to open the keypad just to see when I have the alarm set to.
+<li>The T68i and the Nokia 7650 both had a Screensaver/Standby-Screen that was useful as it displayed the current time. The P800 does not: When inactive, it first displays a screensaver (an animated gif) and then turns the display off. Nice for battery lifetime - bad for people that do not wear clocks. Workaround: Make just one click with the Jogdial and the P800 will display the standard screen showing the time (but not the date - see below).
+<li>If you have cell info enabled, the cellinfo string will be shown below the provider-name where the current date would be placed instead. There is no way to see the current date with enabled cellinfo besided opening the phone and selecting the clock application. Stupid.
+<li>Jogdial: Veeery nice idea. This is great. Too bad it's so hard to push it down into the phone. I always push it forward instead of down. But this may be a problem with my fingers.
+<li>Keyboard. I know there is no better (at least none as cheap as the current) way to create a removable keyboard than to have the keys press on virtual keys on the touchscreen.... But: The keys are very hard to press down and pressing them feels so much "rubber-ish". Bu&auml;rk. And: I had to recalibrate the display to make those two small "back" and "c" buttons work. I am not sure, a default consumer knows about this...
+<li>mRouter: Say what you want, but I life after the principle: Once broken - always broken. And I have never seen a more broken piece of software than the Nokia PC Suite with its mRouter-Tool (even Microsoft Word is better). The P800 uses the same thing (I think, this is Symbian related and cannot be changed that easily). Anyway: The Ericsson software looks more stable to me than the Nokia Software did. It worked flawlessly with IR and USB on my Notebook. I'll see what it does tomorrow on my office-pc where I will try to synchronize via Bluetooth and USB.
+<li>Browser: Why does it open the startpage when I open the browser? OK... actually this makes sense... but then: Mobile Internet Connections are expensive. I want an option to open the bookmarks-page per default. Not the homepage. After all: To change the homepage, I have to open the browser which will automatically open a connection to the internet and display the homepage set per default by your Mobile Provider.
+<li>Browser-Key: I prefer Opera as my Webbrowser. SonyEricsson gives it away <a href="http://www.sonyericsson.com/spg.jsp?page=gsapopup&Redir=template%3DSP1_17_1%26B%3Die%26PID%3D9940%26LM%3DSD_V%26FID%3D2300">for free</a> and it works much better than the internal browser for HTML. Why can't I reconfigure the browser-key at the side of my Phone to launch opera instead of the internal browser?
+<li>Shortcuts: I like the shortcuts to the different applications. Why are the shortcuts for the closed operation mode configured in the control panel and the shortcuts for the mode with the keyboard open in the Preferences-Menu of the launcher-application? Or in common: Why are some settings in the control panel and others in the corresponding application?
+<li>Multitasking: Yes. It's a Phone - no PC and no PDA either. I understand that multitasking may not be possible, but then please provide me with a) a list of last started applications or b) the possibility to sort the application-list after self-defined criteria or c) at least sort that list alphapethically! Let me make an example for this: Say you are playing the (greeeeeeat) Solitaire-Game, then you want to have a look at the current time. Thus you start the clock-application (why is the clock  not always displayed in the status-bar?). Now to go back to your game, you have to go back to the launcher, scroll all the way down in the list and restart solitaire (after you have found it - the list is sorted by the ideas of a marketing-guy - not of one that really uses the phone (Camera before Adresses for example)...
+</ul>
+
+This list seems quite big. Didn't I say the phone is great? Yes. I did. The phone <b>is</b> great. The above list is complete. There are no more problems and many of the existing ones are quite easy fixable. I will list them down in a more professional way and I will be sending them to the SonyEricsson Support. I dont' think, I'll get an answer, but maybe they fix one of the problems in a future release...
+
+Go and buy your P800 - you will like it.
