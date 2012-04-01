@@ -138,5 +138,4 @@ broken.
 
 So, I decided to just fix the problem (undefined variable access) but leave
 E_NOTICE where it is (off). There's always `git blame` and I'll make sure I
-will get a beer every time somebody lets another undefined variable slip in
-:-)
+will get a beer every time somebody lets another undefined variable slip in.
