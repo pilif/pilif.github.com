@@ -72,7 +72,7 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-#tweets{
+#tweets, #gh_repos{
     list-style: none;
     padding: 0;
     margin: 0;
