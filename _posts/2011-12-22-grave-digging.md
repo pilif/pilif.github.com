@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Abusing LiveConnect for fun and profit
+categories:
+- programming
 tags:
 - programming
 - javascript

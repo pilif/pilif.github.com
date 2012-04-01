@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Beautifying commits with git
+categories:
+- Programming
 tags:
 - git
 - Programming

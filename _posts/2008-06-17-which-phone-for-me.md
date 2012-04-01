@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Which phone for me?
+categories:
+- Hardware
 tags:
 - Hardware
 - iphone

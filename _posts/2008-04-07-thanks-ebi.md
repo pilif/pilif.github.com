@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Thanks, Ebi
+categories:
+- Personal
 tags:
 - Personal
 status: publish

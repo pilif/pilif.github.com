@@ -1,6 +1,8 @@
 ---
 layout: post
 title: All-time favourite tools - update
+categories:
+- Software
 tags:
 - Free Software
 - git

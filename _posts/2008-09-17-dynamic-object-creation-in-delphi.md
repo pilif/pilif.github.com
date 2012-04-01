@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Dynamic object creation in Delphi
+categories:
+- Programming
 tags:
 - delphi factory instance programming
 status: publish

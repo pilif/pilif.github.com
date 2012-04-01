@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Sprite avatars in Gravatar
+categories:
+- Personal
 tags:
 - avatar
 - chrono trigger

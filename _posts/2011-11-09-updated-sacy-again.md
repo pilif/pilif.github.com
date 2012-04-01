@@ -1,6 +1,8 @@
 ---
 layout: post
 title: updated sacy - now with external tools
+categories:
+- programming
 tags:
 - programming
 - php
@@ -49,5 +51,5 @@ Absent from the list you'll find less and css minification:
 Feel free to try this out (and/or send me a patch)!
 
 Oh and by the way: If you want to use uglifier or the original coffee script
-and you need node but can't install it, have a look at the 
+and you need node but can't install it, have a look at the
 [static binary](http://pilif.github.com/2011/11/node-to-go/) I created

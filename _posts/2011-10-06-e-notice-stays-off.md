@@ -1,6 +1,8 @@
 ---
 layout: post
 title: E_NOTICE stays off.
+categories:
+- programming
 tags:
 - opinion
 - programming

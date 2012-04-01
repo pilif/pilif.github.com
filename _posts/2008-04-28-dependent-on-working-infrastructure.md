@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Dependent on working infrastructure
+categories:
+- Sysadmin
 tags:
 - bug
 - Free Software

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Monitoring servers with munin
+categories:
+- Software
 tags:
 - Software
 - Unix

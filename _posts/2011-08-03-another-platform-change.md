@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Another platform change
+categories:
+- blogging
 tags:
 - Personal
 - self
@@ -19,8 +21,8 @@ This lastes only two years before [I moved again](/2008/03/another-new-look/)to 
 While I'm still happy with WordPress in general, over time I learned a few things:
 
 * while running your own server is fun, having it compromised is not. Using
-  any well-known blogging engine that relies on server-side generation of  
-  content is ultimately a way to get compromised unless you constantly patch 
+  any well-known blogging engine that relies on server-side generation of
+  content is ultimately a way to get compromised unless you constantly patch
   security issues, taking up a lot of time in the process.
 
 * While the old name of this blog (gnegg) was a cool pun for people who knew
@@ -29,10 +31,10 @@ While I'm still happy with WordPress in general, over time I learned a few thing
 
 * Most of my posts very relying heavily on custom markup, making the WP
   WYSIWYG editor more annoying than useful.
-  
+
 So when [@rmurphey](https://twitter.com/rmurphey) [blogged about octopress](http://rmurphey.com/blog/2011/07/25/switching-to-octopress/) I immediately recognized the huge opportunity [Octopress](http://octopress.org) provides:
 
-I can host static files on a server I don't own and thus don't have to care about compromising, I can blog using my favorite tools (any text editor and git) and I still get an acceptable layout. 
+I can host static files on a server I don't own and thus don't have to care about compromising, I can blog using my favorite tools (any text editor and git) and I still get an acceptable layout.
 
 So here we are - at the end of yet another conversion.
 

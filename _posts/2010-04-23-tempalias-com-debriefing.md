@@ -1,6 +1,8 @@
 ---
 layout: post
 title: tempalias.com - debriefing
+categories:
+- tempalias
 tags:
 - done
 - finally

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Simplest possible RPCs in PHP
+categories:
+- Programming
 tags:
 - PHP
 - Programming

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Snow Leopard and PHP
+categories:
+- Troubleshooting
 tags:
 - Mac
 - PHP

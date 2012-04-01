@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Listen to your home music from the office
+categories:
+- Troubleshooting
 tags:
 - itunes
 - Mac

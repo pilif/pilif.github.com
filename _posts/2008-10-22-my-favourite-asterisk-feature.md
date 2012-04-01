@@ -1,6 +1,8 @@
 ---
 layout: post
 title: My favourite asterisk feature
+categories:
+- Software
 tags:
 - asterisk
 - fun

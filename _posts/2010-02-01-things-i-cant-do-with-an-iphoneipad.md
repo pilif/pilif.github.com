@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Things I can't do with an iPhone/iPad
+categories:
+- Opinion
 tags:
 - Hardware
 - Mac

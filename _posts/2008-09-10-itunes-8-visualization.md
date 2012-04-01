@@ -1,6 +1,8 @@
 ---
 layout: post
 title: iTunes 8 visualization
+categories:
+- Software
 tags:
 - itunes
 - Mac

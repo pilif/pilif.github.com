@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 802.11n, Powerline and Sonos
+categories:
+- Troubleshooting
 tags:
 - Hardware
 - homecinema

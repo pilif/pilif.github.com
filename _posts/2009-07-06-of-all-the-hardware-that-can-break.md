@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Of all the hardware that can break...
+categories:
+- Hardware
 tags:
 - gefen
 - Hardware

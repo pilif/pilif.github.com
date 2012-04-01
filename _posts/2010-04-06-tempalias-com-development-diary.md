@@ -1,6 +1,8 @@
 ---
 layout: post
 title: tempalias.com - development diary
+categories:
+- tempalias
 tags:
 - development
 - express

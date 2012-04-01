@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Google Buzz, Android and Google Apps Accounts
+categories:
+- Troubleshooting
 tags:
 - android
 - annyoing

@@ -1,8 +1,11 @@
 ---
 layout: post
 title: SMS is dead
+categories:
+- Software
 tags:
 - Opinions
+- mobile
 status: publish
 type: post
 published: true

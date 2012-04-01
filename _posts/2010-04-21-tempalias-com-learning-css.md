@@ -1,6 +1,8 @@
 ---
 layout: post
 title: tempalias.com - learning CSS
+categories:
+- tempalias
 tags:
 - css
 - html

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: AJAX, Architecture, Frameworks and Hacks
+categories:
+- programming
 tags:
 - ajax
 - architecture

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Life is good
+categories:
+- Personal
 tags:
 - anti-rant
 - Hardware

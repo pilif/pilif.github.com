@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Double-blind cola test
+categories:
+- Personal
 tags:
 - coke
 - fun

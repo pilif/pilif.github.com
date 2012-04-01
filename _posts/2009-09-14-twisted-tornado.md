@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Twisted Tornado
+categories:
+- Programming
 tags:
 - opinion
 - Opinions

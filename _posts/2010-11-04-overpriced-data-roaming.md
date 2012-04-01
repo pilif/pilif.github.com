@@ -1,8 +1,13 @@
 ---
 layout: post
 title: overpriced data roaming
+categories:
+- opinion
 tags:
-- Opinions
+- opinion
+- swisscom
+- gprs
+- mobile
 status: publish
 type: post
 published: true

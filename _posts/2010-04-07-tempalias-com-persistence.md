@@ -1,6 +1,8 @@
 ---
 layout: post
 title: tempalias.com - persistence
+categories:
+- tempalias
 tags:
 - Free Software
 - nodejs

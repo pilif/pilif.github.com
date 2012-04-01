@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Internet at home
+categories:
+- Personal
 tags:
 - cablecom
 - Personal

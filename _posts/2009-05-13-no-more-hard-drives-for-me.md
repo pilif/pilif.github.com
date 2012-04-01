@@ -1,6 +1,8 @@
 ---
 layout: post
 title: No more hard drives for me!
+categories:
+- Hardware
 tags:
 - Hardware
 - itunes

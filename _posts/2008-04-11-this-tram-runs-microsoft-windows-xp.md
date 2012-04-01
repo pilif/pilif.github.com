@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "This tram runs Microsoft\xC2\xAE Windows\xC2\xAE XP\xE2\x84\xA2"
+categories:
+- Personal
 tags:
 - crash
 - Software

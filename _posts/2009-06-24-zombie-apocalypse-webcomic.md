@@ -1,7 +1,12 @@
 ---
 layout: post
 title: Zombie apocalypse webcomic
-categories: []
+categories:
+- Opinion
+tags:
+- webcomic
+- zombies
+- opinion
 
 status: draft
 type: post

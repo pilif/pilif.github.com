@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Tunnel munin nodes over HTTP
+categories:
+- Software
 tags:
 - Free Software
 - http

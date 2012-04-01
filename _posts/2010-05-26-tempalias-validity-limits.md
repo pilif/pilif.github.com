@@ -1,6 +1,8 @@
 ---
 layout: post
 title: tempalias - validity limits
+categories:
+- tempalias
 tags:
 - admin
 - Software

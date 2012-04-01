@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Broken by design
+categories:
+- Hardware
 tags:
 - Free Software
 - harmony

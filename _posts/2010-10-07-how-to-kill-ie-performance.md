@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How to kill IE performance
+categories:
+- programming
 tags:
 - ie
 - javascript

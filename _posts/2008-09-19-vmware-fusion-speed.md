@@ -1,6 +1,8 @@
 ---
 layout: post
 title: VMWare Fusion Speed
+categories:
+- Software
 tags:
 - fusion
 - Mac

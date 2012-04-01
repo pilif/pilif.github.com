@@ -1,6 +1,8 @@
 ---
 layout: post
 title: PHP 5.3 and friends on Karmic
+categories:
+- Sysadmin
 tags:
 - Free Software
 - karmic

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Lion Server authentication issues
+categories:
+- solutions
 tags:
 - solutions
 - programming

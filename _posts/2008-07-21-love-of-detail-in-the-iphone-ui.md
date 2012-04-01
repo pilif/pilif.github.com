@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Love of detail in the iPhone UI
-categories: []
-
-status: draft
+tags:
+- hardware
+- software
+- iphone
+- apple
+categories:
+- Hardware
 type: post
 published: false
 meta: {}

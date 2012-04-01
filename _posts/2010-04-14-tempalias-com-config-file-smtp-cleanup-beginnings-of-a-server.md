@@ -1,6 +1,8 @@
 ---
 layout: post
 title: tempalias.com - config file, SMTP cleanup, beginnings of a server
+categories:
+- tempalias
 tags:
 - Free Software
 - mail

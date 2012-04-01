@@ -1,6 +1,8 @@
 ---
 layout: post
 title: VMware shared folders and Visual Studio
+categories:
+- Troubleshooting
 tags:
 - .net
 - networking

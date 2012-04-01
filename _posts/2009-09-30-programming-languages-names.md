@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Programming languages names
+categories:
+- Programming
 tags:
 - Opinions
 - Programming

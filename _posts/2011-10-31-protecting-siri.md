@@ -1,6 +1,8 @@
 ---
 layout: post
 title: protecting siri
+categories:
+- software
 tags:
 - programming
 - apple

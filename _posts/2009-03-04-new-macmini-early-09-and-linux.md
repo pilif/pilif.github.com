@@ -1,6 +1,8 @@
 ---
 layout: post
 title: New MacMini (early 09) and Linux
+categories:
+- Troubleshooting
 tags:
 - Free Software
 - Hardware

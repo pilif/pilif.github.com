@@ -1,6 +1,8 @@
 ---
 layout: post
 title: IRC user interface idea
+categories:
+- Opinion
 tags:
 - channel
 - chat

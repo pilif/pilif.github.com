@@ -1,6 +1,8 @@
 ---
 layout: post
 title: digg bar controversy
+categories:
+- Opinion
 tags:
 - digg
 - Opinions

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Do spammers find pleasure in destroying fun stuff?
+categories:
+- tempalias
 tags:
 - mail
 - Personal

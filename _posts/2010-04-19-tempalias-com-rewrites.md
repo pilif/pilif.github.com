@@ -1,6 +1,8 @@
 ---
 layout: post
 title: tempalias.com - rewrites
+categories:
+- tempalias
 tags:
 - ab
 - cache

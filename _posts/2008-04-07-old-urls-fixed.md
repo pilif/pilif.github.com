@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Old URLs fixed
+categories:
+- Personal
 tags:
 - gnegg.ch
 - Solutions

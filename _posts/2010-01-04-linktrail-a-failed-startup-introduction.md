@@ -1,6 +1,8 @@
 ---
 layout: post
 title: linktrail - a failed startup - introduction
+categories:
+- Personal
 tags:
 - linktrail
 - Personal

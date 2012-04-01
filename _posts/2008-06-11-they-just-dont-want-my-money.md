@@ -1,6 +1,8 @@
 ---
 layout: post
 title: They just don't want my money
+categories:
+- Personal
 tags:
 - bittorrent
 - Games

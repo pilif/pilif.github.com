@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hosted Code Repository?
+categories:
+- Programming
 tags:
 - paranoia
 - Programming

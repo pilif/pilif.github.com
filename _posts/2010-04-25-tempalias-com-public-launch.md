@@ -1,6 +1,8 @@
 ---
 layout: post
 title: tempalias.com - Public launch
+categories:
+- tempalias
 tags:
 - fun
 - launch

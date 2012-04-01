@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Automatic language detection
+categories:
+- Programming
 tags:
 - Programming
 - rant

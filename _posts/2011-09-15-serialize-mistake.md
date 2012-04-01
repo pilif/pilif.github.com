@@ -1,6 +1,8 @@
 ---
 layout: post
 title: serialize() output is binary data!
+categories:
+- programming
 tags:
 - PHP
 - solutions
@@ -24,12 +26,12 @@ But what looks like text on first glance isn't text data at all. Assume that my 
 
     php > echo serialize(array('foo' => 'bär'));
     a:1:{s:3:"foo";s:3:"bär";}
-    
+
 and now assume it's in UTF-8 encoding:
-    
+
     php > echo serialize(array('foo' => 'bär'));
     a:1:{s:3:"foo";s:4:"bär";}
-    
+
 You will notice that the format encodes the strings length together with the string. And because PHP is inherently not unicode capable, it's not encoding the strings character length, but its *byte-length*.
 
 unserialize() checks whether the encoded length matches the actual delimited strings length. This means that if you treat the serialized output as text and your databases's encoding changes along the way, that the retrieved string can't be unserialized any more.

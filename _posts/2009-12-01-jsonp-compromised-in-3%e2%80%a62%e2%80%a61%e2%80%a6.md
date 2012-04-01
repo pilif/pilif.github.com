@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "JSONP. Compromised in 3\xE2\x80\xA62\xE2\x80\xA61\xE2\x80\xA6"
+categories:
+- Programming
 tags:
 - javascript
 - json

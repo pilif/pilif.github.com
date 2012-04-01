@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Skype over 3G - calculations
+categories:
+- opinion
 tags:
 - 3g
 - background

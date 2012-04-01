@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Asking for permission
+categories:
+- opinions
 tags:
 - opinion
 - programming

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Windows Media Encoder: File not found"
+categories:
+- Troubleshooting
 tags:
 - bug
 - encoder

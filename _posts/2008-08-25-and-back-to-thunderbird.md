@@ -1,6 +1,8 @@
 ---
 layout: post
 title: ... and back to Thunderbird
+categories:
+- Software
 tags:
 - gmail
 - mail

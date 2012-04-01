@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Bugs, Bugs and more Bugs
+categories:
+- Programming
 tags:
 - bugs
 - grrr

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Managed switch
+categories:
+- Hardware
 tags:
 - Hardware
 - networking

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Sonos news
+categories:
+- Hardware
 tags:
 - Hardware
 - iphone

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: pilif.ch is back
+categories:
+- Personal
 tags:
 - domain
 - gnegg.ch

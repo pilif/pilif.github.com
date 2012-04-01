@@ -1,6 +1,8 @@
 ---
 layout: post
 title: (Unicode-)String handling done right
+categories:
+- Programming
 tags:
 - opinion
 - Opinions

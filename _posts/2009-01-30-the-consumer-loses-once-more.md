@@ -1,7 +1,13 @@
 ---
 layout: post
 title: The consumer loses once more
-categories: []
+categories:
+- Opinion
+tags:
+- opinion
+- drm
+- piracy
+- gaming
 
 status: publish
 type: post

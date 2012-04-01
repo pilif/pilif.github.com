@@ -1,8 +1,13 @@
 ---
 layout: post
 title: sacy 0.2 - now with less, sass and scss
-categories: []
-
+tags:
+- programming
+- sacy
+- php
+- smarty
+categories:
+- programming
 status: publish
 type: post
 published: true

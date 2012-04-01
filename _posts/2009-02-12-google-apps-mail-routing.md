@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Google Apps: Mail Routing"
+categories:
+- Sysadmin
 tags:
 - email
 - google

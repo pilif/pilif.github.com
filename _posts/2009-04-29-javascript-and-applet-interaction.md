@@ -1,6 +1,8 @@
 ---
 layout: post
 title: JavaScript and Applet interaction
+categories:
+- Programming
 tags:
 - applet
 - java

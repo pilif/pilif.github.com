@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Food for thought
+categories:
+- Opinion
 tags:
 - freedom
 - information

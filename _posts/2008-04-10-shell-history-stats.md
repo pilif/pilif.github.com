@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Shell history stats
+categories:
+- Programming
 tags:
 - Personal
 - shell

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: tempalias.com - now with bookmarklet
+categories:
+- tempalias
 tags:
 - bookmarklet
 - javascript

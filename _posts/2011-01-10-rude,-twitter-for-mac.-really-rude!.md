@@ -1,7 +1,12 @@
 ---
 layout: post
 title: Rude, twitter for Mac. Really rude!
-categories: []
+categories:
+- software
+tags:
+- usability
+- software
+- opinion
 
 status: draft
 type: post

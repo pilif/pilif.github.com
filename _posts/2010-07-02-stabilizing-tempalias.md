@@ -1,6 +1,8 @@
 ---
 layout: post
 title: stabilizing tempalias
+categories:
+- tempalias
 tags:
 - bugs
 - crash

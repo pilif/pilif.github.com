@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Why node.js excites me
+categories:
+- programming
 tags:
 - javascript
 - opinion

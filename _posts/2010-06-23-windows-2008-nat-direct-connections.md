@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Windows 2008  / NAT / Direct connections
+categories:
+- troubleshooting
 tags:
 - networking
 - routing

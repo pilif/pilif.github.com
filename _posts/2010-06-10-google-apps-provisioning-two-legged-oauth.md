@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Google Apps - Provisioning - Two-Legged OAuth
+categories:
+- Sysadmin
 tags:
 - gmail
 - google

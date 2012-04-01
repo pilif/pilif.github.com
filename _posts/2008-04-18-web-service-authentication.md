@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Web service authentication
+categories:
+- Programming
 tags:
 - Opinions
 - security

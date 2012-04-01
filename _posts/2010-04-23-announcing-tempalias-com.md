@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Announcing tempalias.com
+categories:
+- tempalias
 tags:
 - release
 - service

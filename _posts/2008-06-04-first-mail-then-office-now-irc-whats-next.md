@@ -1,6 +1,8 @@
 ---
 layout: post
 title: First mail, then office, now IRC. What's next?
+categories:
+- Software
 tags:
 - irc
 - Software

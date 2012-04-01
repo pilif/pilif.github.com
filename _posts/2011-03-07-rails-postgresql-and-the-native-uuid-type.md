@@ -1,6 +1,8 @@
 ---
 layout: post
 title: rails, PostgreSQL and the native uuid type
+categories:
+- programming
 tags:
 - postgres
 - Programming

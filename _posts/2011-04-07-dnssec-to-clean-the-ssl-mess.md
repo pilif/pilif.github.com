@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNSSEC to fix the SSL mess?
+categories:
+- Opinions
 tags:
 - Opinions
 status: publish

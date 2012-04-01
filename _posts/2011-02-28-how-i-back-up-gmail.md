@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How I back up gmail
+categories:
+- Sysadmin
 tags:
 - backup
 - exim
