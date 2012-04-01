@@ -1,11 +1,13 @@
 <div class="page-header">
-  <h1>{{ page.title }} <small>Supporting tagline</small></h1>
+  <h1>{{ page.title }}</h1>
 </div>
 
 <div class="row">
   <div class="span8">
     {{ content }}
+    {% include JB/sharing %}
     <hr>
+
     <div class="pagination">
       <ul>
       {% if page.previous %}
@@ -24,8 +26,8 @@
     <hr>
     {% include JB/comments %}
   </div>
-  
-  <div class="span4">
+
+  <div id="sidebar" class="span4">
     <h4>Published</h4>
     <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
 
@@ -35,6 +37,8 @@
     {% assign tags_list = page.tags %}
     {% include JB/tags_list %}
     </ul>
-  {% endunless %}  
+  {% endunless %}
+
+    {% include sidebar.html %}
   </div>
 </div>
