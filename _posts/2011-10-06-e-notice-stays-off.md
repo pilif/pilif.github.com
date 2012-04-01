@@ -90,7 +90,7 @@ So. In the end, I'm just complaining about syntax you might think? I though so t
 
 Here's a little something I've come up with:
 
-<script src="https://gist.github.com/1267568.js?file=e_notice_stays_off.php"></script>
+<script src="https://gist.github.com/1267568.js?file=e_notice_stays_off.php"><!-- *sigh* thanks, github markdown parser --></script>
 
 
 The wrapped array solution looks really compelling syntax-wise and I could totally see myself using this and even forcing everybody else to go there. But of course, I didn't trust PHP's interpreter and thus benchmarked the thing.
