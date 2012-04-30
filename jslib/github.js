@@ -20,12 +20,10 @@
     url = "http://github.com/api/v2/json/repos/show/"+user+"?callback=?";
 
     $.getJSON(url, function(data){
-        var rc = config.count, res = [], repos = data.repositories;
+        var res = [], repos = data.repositories;
         $.each(repos, function(i, repo){
-            if (rc <= 0) return;
             if (config.skip_forks && repo.fork) return;
             res.push(repo);
-            rc--;
         });
         res.sort(function(a, b){
             var a = new Date(a.pushed_at),
@@ -34,6 +32,7 @@
             if (a.valueOf() == b.valueOf()) return 0;
             return a.valueOf() > b.valueOf() ? -1 : 1;
         });
+        res.splice(config.count, res.length-config.count);
         el.html(render(res));
     });
 
