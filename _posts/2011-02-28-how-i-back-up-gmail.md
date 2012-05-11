@@ -51,7 +51,7 @@ If you can live with this, here's how you do it:
 
 First, you set up your Google domain as normal. Add all the users you want and do everything else just as you would do it in a traditional set up.
 
-Next, we'll have to configure Google Maps for <a href="http://www.gnegg.ch/2010/06/google-apps-provisioning-two-legged-oauth/">two-legged OAuth access</a> to our accounts. I've written about this <a href="http://www.gnegg.ch/2010/06/google-apps-provisioning-two-legged-oauth/">before</a>. We are doing this so we don't need to know our users passwords. Also, we need to enable the provisioning API to get access to the list of users and groups.
+Next, we'll have to configure Google Mail for <a href="http://www.gnegg.ch/2010/06/google-apps-provisioning-two-legged-oauth/">two-legged OAuth access</a> to our accounts. I've written about this <a href="http://www.gnegg.ch/2010/06/google-apps-provisioning-two-legged-oauth/">before</a>. We are doing this so we don't need to know our users passwords. Also, we need to enable the provisioning API to get access to the list of users and groups.
 
 Next, our mail relay will have to know about what users (and groups) are listed in our Google account. Here's what I quickly hacked together in Python (my first Python script ever - be polite while flaming) using the GData library:
 {% highlight python %}import gdata.apps.service
