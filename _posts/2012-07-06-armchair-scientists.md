@@ -50,7 +50,7 @@ Think about that article you just read that was explaining a problem
 the author was solving. Or that other article that was illustrating a
 problem the author is having, still in search of a solution.
 
-Didn't you feel the urgue to go to [Hacker News](http://news.ycombinator.com)
+Didn't you feel the urge to go to [Hacker News](http://news.ycombinator.com)
 and reply how much you know better and how crazy the original poster
 must be not to see the obvious simple solution?
 
