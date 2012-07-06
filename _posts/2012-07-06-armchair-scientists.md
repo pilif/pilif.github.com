@@ -36,7 +36,7 @@ misguided? Of course - we learned about that in school,
 [work](http://en.wikipedia.org/wiki/World_War_II).
 
 Of course that elderly guy in the little story is wrong. The problems
-are way too complex for a bystander to even understand, let along
+are way too complex for a bystander to even understand, let alone
 solve. More than likely he doesn't even have a fraction of the
 background needed to understand the complexities.
 
