@@ -55,13 +55,13 @@ and reply how much you know better and how crazy the original poster
 must be not to see the obvious simple solution?
 
 Having trouble scaling 4chan? [How can *that* be hard](http://news.ycombinator.com/item?id=4206544)?
-Having trouble with you programming environment feeling unable to assign a string to another?
+Having trouble with your programming environment feeling unable to assign a string to another?
 Well. [It's just strings](https://raw.github.com/candlerb/string19/47b0cba0a2047eca0612b4e24a540f011cf2cac3/soapbox.rb), why is that so hard?
 
 Or those idiots at Amazon who can't even keep their cloud service
 running? *Clearly* it can't be that hard!
 
-See a connection? Why stating opinion like that, you are not even a
+See a connection? By stating opinion like that, you are not even a
 little bit better than the elderly guy in the beginning of this essay.
 
 Until you know all the facts, until you were there, on the ladder
