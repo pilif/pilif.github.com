@@ -17,10 +17,10 @@
       count: 5
     }, config || {});
 
-    url = "http://github.com/api/v2/json/repos/show/"+user+"?callback=?";
+    url = "https://api.github.com/users/"+user+"/repos?callback=?";
 
     $.getJSON(url, function(data){
-        var res = [], repos = data.repositories;
+        var res = [], repos = data.data;
         $.each(repos, function(i, repo){
             if (config.skip_forks && repo.fork) return;
             res.push(repo);
