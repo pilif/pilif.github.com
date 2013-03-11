@@ -49,8 +49,8 @@
       count: 5,
       show_replies: false
     }, config || {});
-    url = "http://twitter.com/statuses/user_timeline/"+user+".json?trim_user=true&count="+(50+config.count)+"&callback=?";
 
+    url = "https://api.twitter.com/1/statuses/user_timeline.json\?include_entities\=false\&include_rts\=false\&screen_name\="+user+"\&count\="+(50+config.count)+"&callback=?";
 
     $.getJSON(url, function(res){
       var i = config.count;
