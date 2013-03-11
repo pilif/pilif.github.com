@@ -18,7 +18,7 @@ Each of this classes registers itself at run-time depending on a certain conditi
 This post is about how to do this in Delphi. Remember that this sample is very much abstracted and the real-world application is quite a bit more complex, but this sample should be enough to demonstrate the point.
 
 Let's say, we have these classes:
-{% highlight Delphi %}
+{% highlight delphi %}
 type
   TJob = class(TObject)
     public
@@ -43,7 +43,7 @@ type
 Each of these constructors does something to initialize the instance and thus calls its parent using 'inherited'.
 
 Now, let's further assume that we have a Job-Repository that stores a list of available jobs:
-{% highlight Delphi %}
+{% highlight delphi %}
 type
   TJobRepository = class(TObject)
     private
@@ -54,7 +54,7 @@ type
    end;
 {% endhighlight %}
 Now we can register our jobs
-{% highlight Delphi %}
+{% highlight delphi %}
    rep = TJobRepository.Create;
    if condition then
      rep.RegisterJob(TJobAA);
@@ -62,7 +62,7 @@ Now we can register our jobs
      rep.RegisterJob(TJobB);
 {% endhighlight %}
 and so on. Now at runtime, depending on some condition, we will instantiate any of these registered jobs. This is how we'd do that:
-{% highlight Delphi %}  job = rep.getJob(0).Create; {% endhighlight %}
+{% highlight delphi %}  job = rep.getJob(0).Create; {% endhighlight %}
 Sounds easy. But this doesn't work.
 
 job in this example will be of type TJobAA (good), but its constructor will not be called (bad). The solution is to
