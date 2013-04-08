@@ -10,7 +10,7 @@ published: true
 meta: {}
 
 ---
-<img width='123' height='451' border='0' hspace='5' align='left' src='/uploads/terra.jpg' alt='' />
+<img width='123' height='451' border='0' hspace='5' align='left' src='http://www.gnegg.ch/uploads/terra.jpg' alt='' />
 
 <p><a href="http://en.wikipedia.org/wiki/Final_Fantasy_VI">Final Fantasy VI</a> (known as Final Fantasy 3 in the US) begins with two guys and Terra using some mech-like device to raid a town with the objective to find a creature referred to as an Esper.</p>
 <p>You soon learn that Terra is in fact wearing a device inhibiting her free will and that she would never do something like that out of her free will - quite to the contrary.</p>

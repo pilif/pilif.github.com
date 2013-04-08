@@ -9,7 +9,7 @@ published: true
 meta: {}
 
 ---
-<center><!-- s9ymdb:24 --><img width='470' height='60' style="border: 0px; padding-left: 5px; padding-right: 5px;" src="/uploads/ogg.png" alt="" /></center>
+<center><!-- s9ymdb:24 --><img width='470' height='60' style="border: 0px; padding-left: 5px; padding-right: 5px;" src="http://www.gnegg.ch/uploads/ogg.png" alt="" /></center>
 <p>For about a year, I'm listening to Podcasts all the time. Until now, I was using my iPod nano with iTunes for my podcasting needs and I was pretty happy about it.</p>
 <p>Lately though, I came across some podcasts that provide either only OGG versions or at least enhanced OGG versions (like stereo or additional content). Not wanting to start writing code to listen to Podcasts, I thought that maybe I should try out another player...</p>
 <p>I settled with an iRiver Clix 2 which looks great, has a nice OLED display and plays OGG files.</p>

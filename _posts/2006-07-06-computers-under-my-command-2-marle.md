@@ -11,7 +11,7 @@ published: true
 meta: {}
 
 ---
-<img width='220' height='393' border='0' hspace='5' align='left' src='/uploads/marle2.jpg' alt='' />
+<img width='220' height='393' border='0' hspace='5' align='left' src='http://www.gnegg.ch/uploads/marle2.jpg' alt='' />
 <p>While everyone keeps calling her Marle, she is actually the princess Nadia of the Kingdom of Guardia in what many people are calling the best console RPG ever made, <a href="http://en.wikipedia.org/wiki/Chrono_Trigger">Chrono Trigger</a></p>
 <p>Chrono Trigger was one of the last RPGs Squaresoft ever did for the SNES and it's special in many ways: Excellent Music (by <a href="http://www.procyon-studio.com/">Yasunori Mitsuda</a>), excellent graphics, smooth game play, really nice story and: Excellently done characters.</p>
 <p>Robo, Frog, Lucca, Marle, Crono, Magus and Ayla - every one of them has its very own style and story. Aside from Crono which is quite the ordinary guy, every one of them is special in its own kind.</p>

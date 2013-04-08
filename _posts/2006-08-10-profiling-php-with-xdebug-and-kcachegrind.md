@@ -11,7 +11,7 @@ published: true
 meta: {}
 
 ---
-<a class='serendipity_image_link' href='/uploads/kcachegrind.png'><img width='110' height='91' border='0'  hspace="5" align='left' src='/uploads/kcachegrind.serendipityThumb.png' alt='' /></a>
+<a class='serendipity_image_link' href='http://www.gnegg.ch/uploads/kcachegrind.png'><img width='110' height='91' border='0'  hspace="5" align='left' src='http://www.gnegg.ch/uploads/kcachegrind.serendipityThumb.png' alt='' /></a>
 <p>Profiling can provide real revelations.</p>
 <p>Sometimes, you have that gut feeling that a certain code path is the performance bottleneck. Then you go ahead and fix that only to see, that the code is still slow.</p>
 <p>This is when a profiler kicks in: It helps you determine the <em>real</em> bottlenecks, so you can start fixing <em>them</em></p>

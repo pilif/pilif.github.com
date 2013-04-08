@@ -11,7 +11,7 @@ published: true
 meta: {}
 
 ---
-<img width='177' height='450' border='0' hspace='5' align='left' src='/uploads/yuna.jpg' alt='' />
+<img width='177' height='450' border='0' hspace='5' align='left' src='http://www.gnegg.ch/uploads/yuna.jpg' alt='' />
 <p>Yuna was the lead girl in Final Fantasy X, the first episode of the series being released for the Playstation 2.</p>
 <p>Now, I know I'm alone with this oppinion, but FFX was a big disappointment for me: Obvious character backgrounds, unimpressive story, stupid mini games, no world map, much too short. No. I didn't like FFX.</p>
 <p>But this doesn't change the fact that I played through the game and that I was serisouly impressed of how well the thing looked. Yes. The graphics were good - unfortunately that's everything positive I can say about the game.</p>

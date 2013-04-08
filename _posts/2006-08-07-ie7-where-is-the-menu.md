@@ -12,7 +12,7 @@ meta: {}
 ---
 <p>Today, I finally went ahead and installed the current Beta 3 of Internet Explorer, so I too will have the opportunity to comment on it.</p>
 <center>
-<a class='serendipity_image_link' href='/uploads/ie7.png'><img width='400' height='85' border='0' hspace='5' src='/uploads/ie7-smaller.png' alt='' /></a>
+<a class='serendipity_image_link' href='http://www.gnegg.ch/uploads/ie7.png'><img width='400' height='85' border='0' hspace='5' src='http://www.gnegg.ch/uploads/ie7-smaller.png' alt='' /></a>
 </center>
 <p>What I ask myself is: Where is the menu?</p>
 <p>Well. I know it's to the right of the screen behind these buttons. But it's no real menu. It's something menu-alike.</p>

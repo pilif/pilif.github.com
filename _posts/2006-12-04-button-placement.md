@@ -13,7 +13,7 @@ published: true
 meta: {}
 
 ---
-<center><a href="/uploads/activesync.png"><img width='300' height='182' style="border: 0px; padding: 5px;" src="/uploads/activesync_thumb.png" alt="" /></a></center>
+<center><a href="http://www.gnegg.ch/uploads/activesync.png"><img width='300' height='182' style="border: 0px; padding: 5px;" src="http://www.gnegg.ch/uploads/activesync_thumb.png" alt="" /></a></center>
 <p>Besides the fact that this message is lying to me (the device in question certainly is a Windows Mobile device and there can't be any cradle problem because it's an emulated image ActiveSync is trying to connect to), I have one question: What exactly do the OK and the Cancel button do?</p>
 <p>And this newly created dialog is in ActiveSync 4.2 - way after the MS guys are said to have seen the light and are trying to optimize usability.</p>
 <p>Oh and I could list some other "fishy" things about this dialog:</p>

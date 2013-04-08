@@ -28,5 +28,5 @@ esac
 <p>The sample also shows the variables ZSH replaces in the strings (the parameter -P to print lets ZSH do prompt expansion. See <tt>zshmisc(1)</tt> for a list of all variables): %n is the currently logged on user, %m the hostname up until the first dot and %~ is displaying the current directory or ~ if you are in $HOME. You can certainly add any other environment variable of your choice if you need more options, but this more or less does it for me.</p>
 <p>Usually, the guides in the internet make you use <tt>precmd</tt> to set the title bar, but somehow, Terminal wasn't pleased with that method and constantly kept overwriting the title with the default string.</p>
 <p>And this is how it looks in both iTerm (above) and Terminal (below):</p>
-<center><!-- s9ymdb:23 --><img width='330' height='129' style="border: 0px;" src="/uploads/titlebars.png" alt="" /></center>
+<center><!-- s9ymdb:23 --><img width='330' height='129' style="border: 0px;" src="http://www.gnegg.ch/uploads/titlebars.png" alt="" /></center>
 <br />

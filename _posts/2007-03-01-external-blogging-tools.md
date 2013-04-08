@@ -12,7 +12,7 @@ published: true
 meta: {}
 
 ---
-<!-- s9ymdb:22 --><a href="/uploads/blog-textmate.png"><img width='110' height='60' style="float: right; border: 0px; padding-left: 5px; padding-right: 5px;" src="/uploads/blog-textmate.serendipityThumb.png" alt="" /></a>
+<!-- s9ymdb:22 --><a href="http://www.gnegg.ch/uploads/blog-textmate.png"><img width='110' height='60' style="float: right; border: 0px; padding-left: 5px; padding-right: 5px;" src="http://www.gnegg.ch/uploads/blog-textmate.serendipityThumb.png" alt="" /></a>
 <p>Ever since I started blogging, I have been using different tools to help me do my thing.</p>
 <p>At first, I was using the browser to directly write the articles in the MT interface, but after losing a significant amount of text that way, I quickly migrated to writing my entries in a text editor (<a href="http://www.jedit.org">jEdit</a> <a href="/archives/3-Why-I-like-jEdit.html">back then</a>) and pasting them into the MT interface.</p>
 <p>Then I learned about the XML-RPC interface to MT and began using <a href="http://www.wbloggar.com/">w.bloggar</a> to do my writing, but stagnation and little quirks made me to back to a real text editor which is what I was using for a long time (though I migrated from MT to s9y in between).</p>

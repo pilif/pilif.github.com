@@ -15,7 +15,7 @@ meta: {}
 <p>As <a href="/archives/313-Where-have-I-been.html">I've told before</a>, I'm moving into my very own flat quite soonish.</p>
 <p>I can't show pictures of the interior just yet as the current owners have not moved out yet. What I can show you though is a picture of the surroundings:</p>
 
-<center><img width='389' height='372'  src="/uploads/FirefoxScreenSnapz001.png" alt="" /></center>
+<center><img width='389' height='372'  src="http://www.gnegg.ch/uploads/FirefoxScreenSnapz001.png" alt="" /></center>
 
 <p>The picture was ripped off the <a href="http://www.gis.zh.ch/gb4/bluevari/gb.asp">GIS Browser</a> Zürich provides for us. I could have used <a href="http://map.search.ch">map.search.ch</a> (which had AJAX before google maps and also has a prettier zoom than its hyped counterpart, btw) and I could even have created a link, but that would kind of give away my address (and the images of the GIS browser have a much higher resolution).</p>
 <p>But now to the flat itself:</p>

@@ -14,7 +14,7 @@ published: true
 meta: {}
 
 ---
-<a class='serendipity_image_link' href='/uploads/spam.png'><!-- s9ymdb:30 --><img width="170" height="87" style="float: left; border: 0px; padding-left: 5px; padding-right: 5px;" src="/uploads/spam.serendipityThumb.png" alt="" /></a><p>I don't see much point in complaining about SPAM, but it's slowly but surely reaching complete insanity...</p>
+<a class='serendipity_image_link' href='http://www.gnegg.ch/uploads/spam.png'><!-- s9ymdb:30 --><img width="170" height="87" style="float: left; border: 0px; padding-left: 5px; padding-right: 5px;" src="http://www.gnegg.ch/uploads/spam.serendipityThumb.png" alt="" /></a><p>I don't see much point in complaining about SPAM, but it's slowly but surely reaching complete insanity...</p>
 <p>What you see here is the recent history view of my DSPAM - our second line of defense against SPAM.</p>
 <p>Red means SPAM. (the latest of the messages was a quite clever phishing attempt which I had to manually reclassify)</p>
 <p>To give even more perspective to this: The last genuine Email I received was this morning at 7:54 (it's now 10 hours later) and even that was just an automatically generated mail from Skype.</p>

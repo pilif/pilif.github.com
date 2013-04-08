@@ -11,7 +11,7 @@ published: true
 meta:
   _edit_last: "1"
 ---
-<a href="/uploads/monkey-seq.png"><img src="/uploads/monkey-seq.serendipityThumb.png" border="0" alt="" hspace="5" width="110" height="99" align="left" /></a>
+<a href="http://www.gnegg.ch/uploads/monkey-seq.png"><img src="http://www.gnegg.ch/uploads/monkey-seq.serendipityThumb.png" border="0" alt="" hspace="5" width="110" height="99" align="left" /></a>
 
 It has been 14 years ago that I played Monkey Island for the first time. Well... maybe 13. I just don't remember exactly if it was 1992 or 1993 when my parents finally bought a computer and I illegally copied the game from a classmate (including a photocopied version of that "copy protection" wheel).
 

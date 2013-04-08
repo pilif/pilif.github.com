@@ -11,7 +11,7 @@ published: true
 meta: {}
 
 ---
-<img width='166' height='133' style="float: right; border: 0px; padding-left: 5px; padding-right: 0px;" src="/uploads/750px-Wiegemesser_fcm.jpg" alt="" />
+<img width='166' height='133' style="float: right; border: 0px; padding-left: 5px; padding-right: 0px;" src="http://www.gnegg.ch/uploads/750px-Wiegemesser_fcm.jpg" alt="" />
 <p>About two or three weeks ago, I discovered a new passion of mine: cooking.</p>
 <p>Don't laugh. Cooking is like programming: Doing it is a lot of fun and its rewards - when done right - are worth so much more than any work you could have put into it - especially if you value a good meal as much as I do.</p>
 <p>With cooking, there comes cleaning of dishes and various tools you need while doing your job</p>

@@ -11,7 +11,7 @@ published: true
 meta:
   _edit_last: "1"
 ---
-<img src="/uploads/Shion.jpg" border="0" alt="Picture of the &quot;real&quot; Shion Uzuki" width="145" height="442" align="left" />
+<img src="http://www.gnegg.ch/uploads/Shion.jpg" border="0" alt="Picture of the &quot;real&quot; Shion Uzuki" width="145" height="442" align="left" />
 
 After <a href="/2006/07/linux-powerpc-gcc-segmentation-fault/">yesterdays fun</a> with one of my servers, I thought I could maybe blog about some of them - especially when they are kind of "special" to me.
 
