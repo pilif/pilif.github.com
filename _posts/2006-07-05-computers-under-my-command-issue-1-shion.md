@@ -33,7 +33,7 @@ Next thing to get installed was OpenVPN which I used for <a href="http://www.gne
 
 Shortly after that, I finally found a USB ethernet adapter which made shion replace my ZyAir access point. I also had to buy a USB hub back then and I decided to use the remaining two ports of that to plug in additional hard drives, leading to shion's current disk space capacity of roughly 1.2 TB.
 
-Then I installed <a href="http://www.mp3act.net/">mp[3]act</a> (I've also <a href="http://www.gnegg.ch/archives/266-mp3act.html">blogged about it</a>) and shortly after replaced it with <a href="http://www.jinzora.org">Jinzora</a> due to mp[3]act being quite bug-ridden and not in development any longer.
+Then I installed mp[3]act (I've also <a href="http://www.gnegg.ch/archives/266-mp3act.html">blogged about it</a>) and shortly after replaced it with Jinzora due to mp[3]act being quite bug-ridden and not in development any longer. (update 2013: links removed - mp[3]act is now pointing to a porn site and Jinzora is gone)
 
 In all that time (one year of operation), shion never crashed on me. Overall, the stability of my home network went through the roof since switching all tasks over to her: No more strange connection losses. No more rebooting router and cable modem when lots of outgoing connections are active. No more inexplicable slowness in the internal network.
 
