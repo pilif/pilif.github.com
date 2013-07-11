@@ -43,7 +43,7 @@ of wrongness when you look at it. You encrypt something, you see random
 data. You decrypt it, you see clear text. Seems to work fine. Right!
 Right?
 
-Last week's [issue in the random number generator](http://nakedsecurity.sophos.com/2013/07/09/anatomy-of-a-pseudorandom-number-generator-visualising-cryptocats-buggy-prng/) in cryprocat is a very good example.
+Last week's [issue in the random number generator](http://nakedsecurity.sophos.com/2013/07/09/anatomy-of-a-pseudorandom-number-generator-visualising-cryptocats-buggy-prng/) in Cryptocat is a very good example.
 
 The bug was an off-by-one error in their random number generator. The
 output of the function was still random numbers, looking at the output
