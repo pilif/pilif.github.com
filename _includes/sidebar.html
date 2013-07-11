@@ -27,18 +27,10 @@
 
 {% if site.pilif.twitter.user %}
 <section>
-  <h4>Latest Tweets</h4>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
   {% if site.pilif.twitter.follow_button %}
     <a href="http://twitter.com/{{ site.pilif.twitter.user }}" class="twitter-follow-button" data-width="208px" data-show-count="{{ site.pilif.twitter.show_follower_count }}">Follow @{{ site.pilif.twitter.user }}</a>
   {% else %}
     <p>Follow <a href="http://twitter.com/{{site.pilif.twitter.user}}">@{{ site.pilif.twitter.user }}</a></p>
   {% endif %}
-  <script src="{{ BASE_PATH }}/jslib/twitter.js"></script>
-  <script>
-    $('#tweets').twitterTimeline('{{ site.pilif.twitter.user }}');
-  </script>
 </section>
 {% endif %}
