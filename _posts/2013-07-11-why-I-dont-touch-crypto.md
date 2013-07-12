@@ -1,6 +1,6 @@
 ---
 layout: post
-title: why I don't touch crypo
+title: why I don't touch crypto
 categories:
 - opinion
 tags:
