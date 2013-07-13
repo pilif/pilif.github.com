@@ -34,7 +34,7 @@ your server.
 
 In my use cases, I'm usually using openssl which comes with some
 subcommands and helper script to run as a certificate authority. On the
-Mac if you prefer a GUI, you can use Keychain Access which as all you
+Mac if you prefer a GUI, you can use Keychain Access which has all you
 need in the "Certificate Assistant" submenu of the application menu.
 
 Next, you will need the public key of your users. You can have them
@@ -74,7 +74,7 @@ to `on`. Now only requests that provide a client certificate signed by
 above CA will be allowed to access your server.
 
 When doing so, nginx will set a few additional variables for you to
-use most importantly `$ssl_client_cert` (full certificate),
+use, most importantly `$ssl_client_cert` (full certificate),
 `$ssl_client_s_dn` (the subject name of the client certificate),
 `$ssl_client_serial` (the serial number your CA has issued for their
 certificate) and most importantly `$ssl_client_verify` which you should
@@ -88,7 +88,7 @@ I'll talk about what you do with these variables a bit later on.
 
 ### Apache
 
-As with nginx, enxure that SSL is enabled. Then set
+As with nginx, ensure that SSL is enabled. Then set
 `SSLCACertificateFile` to the path to your CA's certificate. Then set
 `SSLVerifyClient` to `require`
 ([docs](http://httpd.apache.org/docs/2.4/mod/mod_ssl.html)).
@@ -101,7 +101,7 @@ issued). The full certificate is in `SSL_CLIENT_CERT`.
 ### node.js
 
 If you want to handle the whole SSL stuff on your own, here's an
-example in node.js. When you cann `http.createServer`
+example in node.js. When you call `http.createServer`
 ([docs](http://nodejs.org/api/https.html#https_https_createserver_options_requestlistener)),
 pass in some options. One is `requestCert` which you would set to true.
 The other is is `ca` which you should set to an array of strings in PEM
@@ -130,7 +130,7 @@ depending on your use-case use one or both.
 There are a couple of things to keep in mind though:
 
 * Due to a flaw in the SSL protocol which was [discovered in 2009](http://www.educatedguesswork.org/2009/11/understanding_the_tls_renegoti.html),
-  you cannot savely have only parts of your site require a certificate.
+  you cannot safely have only parts of your site require a certificate.
   With most client libraries, this is an all-or-nothing deal. There is
   a secure renegotiation, but I don't think it's widely supported at
   the moment.
