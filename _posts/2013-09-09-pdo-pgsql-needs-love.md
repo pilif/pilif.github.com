@@ -114,6 +114,10 @@ Imagine how selecting a HSTORE would give you an associative array.
 
 Imagine using COPY with pdo_pgsql for very quickly moving bulk data.
 
+Imagine the new features of `PGResult` being exposed to userland.
+Giving applications the ability to detect what constraint was just
+violated (very handy to detect whether it's safe to retry).
+
 Wouldn't that be fun? Wouldn't that save us from having to type so much
 boilerplate all day?
 
