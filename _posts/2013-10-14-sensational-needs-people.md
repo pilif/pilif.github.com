@@ -33,7 +33,7 @@ hosting JSZurich and much more - it's also the work itself that we try
 to make as fun as possible for everybody.
 
 Sure - sometimes, work just has to be done, but we try as much as
-possible to distribute the fun parts of the work between everybodfy.
+possible to distribute the fun parts of the work between everybody.
 Nobody has to be a pure code monkey; nobody constanly pulls the
 "change this logo there for the customer" card (though, that card
 certainly exists to be pulled - we just try to distribute it).
