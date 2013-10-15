@@ -27,7 +27,7 @@ html, body {
 div.article, .article p, .article li{
   color: #454545;
   font-family: "Georgia", serif;
-  font-size: 1.1em;
+  font-size: 16px;
   line-height: 1.5;
 }
 /* Page header tweaks */
