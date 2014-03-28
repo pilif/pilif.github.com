@@ -39,7 +39,7 @@ This is off by default and can be enabled on a per-connection or a per-
 statement level as to not break backwards compatibility (I'll need it off
 until I get a chance to clean up PopScan for example).
 
-Next, array support
+Next, array support:
 
 ![screenshot showing off array support](/assets/images/array.png)
 
