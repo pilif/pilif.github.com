@@ -71,7 +71,7 @@ fulfilled, to the point where I though this to be impossible to get all of
 it, I'm happy to say that here in Switzerland, there is at least one ISP that
 does all of this and more.
 
-I'm taling about [Init7](http://init7.ch) and especially their
+I'm talking about [Init7](http://init7.ch) and especially their
 [awesome FTTH offering Fiber7](https://www.fiber7.ch/) which very recently
 became available in my area.
 
