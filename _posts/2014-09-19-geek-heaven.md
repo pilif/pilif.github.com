@@ -77,8 +77,8 @@ became available in my area.
 
 Let's deal with the technology aspect first as this really isn't the
 important point of this post: What you get from them is pure 1Gbit/s
-Ethernet. Yes, they do sell you router box if you want one, but you can just
-as well just get a simple media converter, or just an SFP module to plug
+Ethernet. Yes, they do sell you a router box if you want one, but you can
+just as well just get a simple media converter, or just an SFP module to plug
 into any (managed) switch (with SFP port).
 
 If you have your own routing equipment, be it a linux router like my
