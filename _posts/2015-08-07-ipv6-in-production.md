@@ -16,6 +16,10 @@ type: post
 published: false
 ---
 
+Yesterday, I talked about [why we need IPv6](/2015/08/why-ipv6/) and to make that actually happend, I decided to do my part and make sure that all of our infrastructure is available over IPv6.
+
+Here's a story of how that went:
+
 First was to request an IPv6 allocation by our hosting provider: Thankfully our contract with them included a /64, but it was never enabled and when I asked for it, they initially tried to bill us CHF 12/mt extra, but after pointing them to the contract, they started to make IPv6 happen.
 
 That this still took them multiple days to do was a pointer to me that they were not ready at all and by asking, I was forcing them into readyness. I think I have done a good deed there.
