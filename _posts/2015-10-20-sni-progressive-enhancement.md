@@ -40,6 +40,8 @@ So after a bit of thinking, I came up with this (it requires JS though):
 * If the beacon doesn't load, then the browser probably doesn't support SNI, so keep them on the unencrypted page. If you want to, you can set a cookie to prevent further probing on subsequent requests.
 * On port 443, serve a [HSTS header](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security), so next time the browser visits, they'll use HTTPS from the start.
 
+IE8 will still show the page correctly but also show a warning that it has blocked content for your own security, so you might want to immediately redirect again (with the cookie set) in order to get rid of the warning.
+
 Contrary to the normal immediate redirect to HTTPS, this means that the first page-view even of compliant browsers will be unencrypted, so absolutely make sure that you serve all your cookies with the `secure` flag. This also means that in order to get to the encrypted version of the page, you need JavaScript enabled - at least for the first time.
 
 Maybe you can come up with some crazy hack using frames, but this method seems to be the cleanest.
