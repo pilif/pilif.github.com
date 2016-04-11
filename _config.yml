@@ -1,6 +1,6 @@
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:year/:month/:title/index.html
+permalink: /:year/:month/:title/
 paginate: 4
 gems: [jekyll-paginate]
 
