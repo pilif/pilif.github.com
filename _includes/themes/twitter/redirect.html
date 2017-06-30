@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta http-equiv="refresh" content="0;url=https://blog.pilif.me/{{ page.date | date: '%Y/%m/%d' }}/{{ page.id | slice: 9,999}}">
+  </head>
+  <body>
+     {{ content }}
+  </body>
+</html>
